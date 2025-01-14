@@ -1,0 +1,951 @@
+{
+  "bankingAwarenessStatic": [
+    {
+      "topic": "1. Introduction",
+      "subtopics": [
+        {
+          "subtopic": "1. Bank and its operations",
+          "content": "**A bank** is a financial institution that accepts deposits from the public and creates lending [1]. **RBI** is the sole regulator for the banking sector in India [1]."
+        },
+        {
+          "subtopic": "2. Assets and liabilities",
+          "content": {
+            "Assets": "Lending activities are the best way to earn income for banks. Personal loans, corporate loans, mortgage loans, and housing loans will fetch a higher interest rate for the bank [2].",
+            "Liabilities": "Deposits with the banks are liabilities for the banks, because banks have to give interest rate for the respective amount deposited by the customer [2]."
+          }
+        },
+        {
+          "subtopic": "3. Net Interest Margin",
+          "content": "**Net interest margin** is a gap between assets and liabilities [3]. For example, a bank charges 9% interest for loans and gives 4% interest for deposits; the 5% difference is the net interest margin [3]. **NIM** is an important parameter for the survival of any banking system [3]. Some new generation private sector banks, along with SBI, can achieve a +3% NIM, which is the benchmark for profitable banking operations [3]. Most public sector banks are struggling with NIMs of 2.2 to 2.7% [4]. To get a high net interest margin, banks should reduce the cost of funds [4]."
+        }
+      ]
+    },
+    {
+      "topic": "2. Types of Accounts and Nomination",
+      "subtopics": [
+        {
+          "subtopic": "1. Savings Account",
+          "content": "It is especially for individuals and small businesses [4]. It creates savings habits for people in the country [4]. Savings accounts are eligible for Resident Indians above 18 years of age [5]. Interest rates vary from 3.5% to 6% [5]. Regular monthly payments through ECS are allowed [5]. No tax is payable on interest earned on a savings bank account up to Rs.40,000 per year [5]. From 1st April 2020, interest is calculated on a daily basis [6]. Minimum balance varies from bank to bank, normally Rs.500 (without cheque book) or Rs.1000 (with cheque book) [6]."
+        },
+        {
+          "subtopic": "2. Current Account",
+          "content": "Firms and companies are eligible to open a current account [6]. It is meant for businessmen to run businesses [6]. Current accounts carry no interest on deposits [7]. Banks charge service charges to account holders [7]. Savings and current accounts are called demand deposits [7]."
+        },
+        {
+          "subtopic": "3. CASA Ratio",
+          "content": "**CASA Ratio** is the ratio of deposits in the form of current and savings accounts to the total deposits [7]. A CASA Ratio of more than 40% is desirable for banks [8]."
+        },
+        {
+          "subtopic": "4. Inactive / Dormant Account",
+          "content": "If a customer has not done any transactions for more than 12 months, the account is classified as inactive [8]. If no transactions are done for 24 months, it is classified as a dormant account [8]. Deposits unclaimed for more than 10 years are transferred to the RBI, which uses the amount for the DEAF scheme to educate depositors [9]."
+        },
+        {
+          "subtopic": "5. Fixed Deposit",
+          "content": "Accounts can be operated for a tenure ranging from 7 days to 10 years [9]. Deposits of Rs.2 crore or more are considered bulk deposits [9]. Interest is paid at the contracted rate for the agreed period [9]. A loan facility is available up to 90% of the outstanding principal and accrued interest [9]. TDS will be ensured by the bank if the interest income is more than Rs.40,000 in a financial year [10]. Banks will give form no. 16 A to the depositor [10]. If the depositor does not come into the bracket of Income Tax purview, he can deposit form no. 15G or 15H to avoid TDS [10]. Interest rates should be based on tenure only [11]."
+        },
+        {
+          "subtopic": "6. Recurring Deposit",
+          "content": "Most of the features are like fixed deposits [11]. It is a monthly deposit with the bank for an agreed period [11]. Interest is credited on the accumulated balance at regular intervals [11]. It is designed to induce small savers to save regularly [11]. The maximum period is normally 120 months (10 years) [11]."
+        },
+        {
+          "subtopic": "7. Bulk Deposit",
+          "content": "Deposits of Rs.2 crore and above constitute bulk deposits [12]. Interest rates vary based on the quantum of deposit [12]. They have high interest rates, so the cost of funds is high [12]. These deposits are normally obtained from High Net-worth Individuals [12]."
+        },
+        {
+          "subtopic": "8. Nomination facility",
+          "content": "Banking Companies (Nomination) rules 1985 permit banks to pay dues to the nominee in the event of the death of the depositor(s), without asking for a succession certificate [12]. Nomination facility is normally available for savings, fixed, and recurring deposit accounts [13]. For current accounts, it is available in few cases [13]. It is advisable to record a nominee for any bank transaction [13]. A nominee is a person who is proposed or formally entered as the recipient of a grant or award [13]."
+        }
+      ]
+    },
+
+    {
+      "topic": "3. Financial Inclusion and Banking Ombudsman",
+      "subtopics": [
+        {
+          "subtopic": "1. No-Frill Account",
+          "content": "It is a zero balance account. No other facilities are available [14]. In August 2012, all the ‘No-Frills’ accounts converted to Basic Savings Bank Deposit Accounts (BSBDAs) [14]."
+        },
+        {
+          "subtopic": "2. BSBDA Account",
+          "content": "Facility of ATM cum debit card at free of cost [14]. No limit on the number of times for depositing the amounts [14]. Only four withdrawals per month at branch or at ATMs [15]. Banks can decide about the price structure, if more than the above facilities are required [15]. If proper KYC norms are not satisfied, then the account should be treated as 'BSBDA – SMALL ACCOUNT' [15]. A customer can have only one BSBDA in one bank [15]."
+        },
+        {
+          "subtopic": "3. PMJDY Account",
+          "content": "No minimum balance [15]. Interest on deposit [15]. Accident insurance covers of Rs.1,00,000 to all the account holders [15]. Life insurance cover of Rs.30,000 to all the account holders (for accounts opened up to 26th Jan 2015) [15]. After satisfactory operation of the account for 6 months, overdraft facility of Rs.10,000 to one member of the family [16]. RuPay card at free of cost [16]. Age Limit is 18 to 65 years [16]."
+        },
+        {
+          "subtopic": "4. Small Account",
+          "content": "When the customer is not able to satisfy KYC norms [16]. This account has several restrictions [16]. The aggregate of all deposits shall not exceed Rs.1 lakh per annum [16]. The aggregate of all withdrawals and transfers in a month shall not exceed Rs.10,000 [17]. Maximum balance at any point of time shall not exceed Rs.50,000 [17]. Valid for a period of 12 months initially, which may be extended by another 12 months if the person provides proof of having applied for an Officially Valid Document [17]."
+        },
+        {
+          "subtopic": "5. Banking Ombudsman",
+          "content": "A customer can complain against non-payment or inordinate delay in payment of cheques, drafts, bills, etc. [18] The RBI has also included the facility for net-banking, digital transactions, mobile banking, debit cards, credit cards, ATM-related complaints, etc. [18]. First, approach the bank for any grievance [18]. If the grievance is not settled by the bank in 30 days, then approach the banking ombudsman within 1 year [18]. Complaints can be lodged on plain paper or by sending e-mail requests [19]. No charges are involved [19]. The maximum limit of the award is Rs.20 lakhs (Rs 1 lakh in case of credit card related complaints) [19]. If a customer is not satisfied, either of the parties can approach the appellate authority within 30 days [19]. The appellate authority is vested with a deputy governor of RBI [19]."
+        },
+        {
+          "subtopic": "6. Types of Risks in Banking",
+          "content": {
+            "1. Financial Risk": "Financial risk develops from the business transactions done by banks, which is exposed to potential loss [19].",
+            "2. Market Risk": "Market risk is a type of risk in which losses in on- or off-balance sheet positions arise from movement in market prices [20]. Market risk is most prominent for banks in investment banking [20].",
+            "3. Credit Risk": "Credit risk is the potential that a bank borrower or counter party fails to meet the obligations on agreed terms [20]. Credit risk is inherent to the business of lending funds [21].",
+            "4. Interest Rate Risk": "Interest rate risk arises due to fluctuation in interest rates [21]. Changes in interest rates affect earnings, value of assets, liability off-balance sheet items, and cash flow [21].",
+            "5. Liquidity Risk": "Liquidity risk arises due to the inability of a bank to meet its obligations when any asset may not be realized into cash [22]. It is also a mismatch of assets and liabilities [22].",
+            "6. Operational Risk": "Operational risk arises due to failure of day to day activities, systems or people [23]. It includes both internal and external frauds [23].",
+            "7. Capital Risk": "Capital risk arises where the capital comes under risk [24].",
+            "8. Foreign Exchange Risk": "Forex risk is the risk that a bank may suffer loss as a result of adverse exchange rate movement [24].",
+            "9. Systemic Risk": "Systemic risk refers to the risk of a breakdown of an entire system [24].",
+            "10. Reputational Risk": "Reputational risk implies the public’s loss of confidence in a bank due to a negative perception [25]."
+          }
+        }
+      ]
+    },
+    {
+      "topic": "4. KYC, ATM services and its Types",
+      "subtopics": [
+        {
+          "subtopic": "1. KYC(Know Your Customer)",
+          "content": "This is a customer identification process, prior to the opening of accounts [26]. It involves ‘identity’ and ‘address’ verification [26]. It is to prevent banks from being used for money laundering [27]. RBI issued guidelines to banks under section 35A of the Banking Regulation Act 1949 and rule 7 of the money laundering rules 2005 [27]. KYC is to be verified periodically as per the following schedule: low-risk customers once in 10 years, medium-risk customers once in 8 years, and high-risk customers once in 2 years [28]. If a person is not able to provide KYC documents (OVD), they can still open a bank account, which is known as a small account [28]. Officially valid documents required for KYC include: Passport, Driving Licence, Voters' Identity Card, PAN Card, Aadhaar Card, NREGA Card, and a letter from the National Population Register [29]."
+        },
+        {
+          "subtopic": "2. ATM Services",
+          "content": "It is the facility of accessing the account for dispensing cash and to carry out financial and non-financial transactions without visiting bank branches [30]. Banks should resolve complaints within 7 working days [30]. If not, banks should pay Rs.100 per day for the delay beyond 7 days (but the customer should complain within 30 days of transaction) [30]. If a customer is not satisfied, one can approach the banking ombudsman [31]."
+        },
+        {
+          "subtopic": "3. Types of ATM",
+          "content": {
+            "1. Onsite/Offsite ATM": "Onsite ATMs are ATMs within the bank premises [31].",
+            "2. White Label ATM": "RBI permitted NBFCs/FIs to establish ATMs with their own brand name, known as White Label ATMs [31]. Ex: Indicash, India One [31].",
+            "3. Brown Label ATM": "Hardware and lease of the ATM is owned by a service provider, but cash management and connectivity to banking networks are provided by a sponsor bank whose brand is used on the ATM [32].",
+            "4. Green Label ATM": "ATM is provided for agricultural transactions [32].",
+            "5. Orange Label ATM": "It is provided for share transactions [32].",
+            "6. Yellow Label ATM": "These are provided for e-commerce [32].",
+            "7. Pink Label ATM": "Such ATMs are monitored by guards who ensure that only women access these ATMs [33].",
+            "8. Biometric ATM": "ATMs which uses security features like fingerprint scanner and eye scanner of the customer to access the bank details [33]."
+          }
+        }
+      ]
+    },
+    {
+      "topic": "5. NRI Accounts and Payment facilities",
+      "subtopics": [
+        {
+          "subtopic": "1. Classification (Tier 1 - Tier 6)",
+          "content": {
+            "Tier 1": "Population 1,00,000 and above [33]",
+            "Tier 2": "Population 50,000 to 99,999 [33]",
+            "Tier 3": "Population 20,000 to 49,999 [33]",
+            "Tier 4": "Population 10,000 to 19,999 [33]",
+            "Tier 5": "Population 5,000 to 9,999 [34]",
+            "Tier 6": "Population less than 5000 [34]"
+          }
+        },
+        {
+          "subtopic": "2. NRI(Non Resident Indian)",
+          "content": "An Indian citizen who is residing outside India and holds an Indian Passport [34]."
+        },
+        {
+          "subtopic": "3. Bank Accounts for NRIs",
+          "content": "NRO account, NRE account, FCNR(B) account [34]."
+        },
+        {
+          "subtopic": "4. NRO Account(Non Resident Ordinary Rupee Account)",
+          "content": "Account will be in Indian rupees and with banks authorized by RBI [34]. Can be opened jointly with a resident Indian [35]. If a citizen becomes an NRI, their existing account becomes an NRO account [35]. It can be in the form of SA / CA / RD / FD [35]. Income tax will be deducted as per the rules [35]. There is a limit on the repatriation of funds (Maximum of $ 1 million per year) [35]."
+        },
+        {
+          "subtopic": "5. NRE Account(Non Resident External Rupee Account)",
+          "content": "Account will be in Indian rupees and with banks authorized by RBI [35]. Can be opened as a joint account with another NRI [35]. The amount to be deposited in this account is earned on foreign land only [35]. It can be in the form of SA / CA / RD / FD [35]. The minimum tenure of term deposits will be 1 year [36]. No income tax will be deducted in India [36]. Fully repatriable to foreign countries [36]."
+        },
+        {
+          "subtopic": "6. FRNR(B) Account(Foreign Currency Non Resident (Bank account)",
+          "content": "Only fixed deposit accounts can be opened with banks authorized by RBI [36]. Minimum term is 1 year and maximum term is 5 years [36]. Can be maintained in approved foreign currencies [36]. No income tax will be deducted in India [36]. Fully repatriable to foreign countries [36]."
+        },
+        {
+          "subtopic": "7. LIBOR/DTAA",
+          "content": {
+            "LIBOR": "London Interbank Offered Rate. It is the primary benchmark for short-term interest rates around the world [37]. Many financial institutions set their interest rates relative to it [38].",
+            "DTAA": "Double Taxation Avoidance Agreement. It is an agreement between two countries with an objective to avoid taxation of the same income in both countries [37]. For availing DTAA benefit, the NRI has to submit “Tax Residency Certificate” (TRC) to the bank annually [38]."
+          }
+        },
+        {
+          "subtopic": "8. SNRR Account (External Commercial Borrowing)",
+          "content": "Any person residing outside India, having a business, can open an SNRR account with an authorized dealer for the purpose of putting through bonafide transactions in rupees which are in conformity [38]."
+        },
+        {
+          "subtopic": "9. Other Accounts",
+          "content": {
+            "Nostro Account": "These accounts are held by Indian Banks in foreign Banks in foreign currency. Example: Indian Bank has an account in Bank of America in dollars [38].",
+            "Vostro Account": "These accounts are held by foreign banks in India in Indian Rupees. Example: Bank of America has an account in Indian Bank in Indian Rupees [39].",
+            "DEMAT Account": "These accounts are used to transact shares in electronic format [39].",
+            "Dormant Account": "A Dormant Account is a banking term that refers to an account of a customer which was without any activity for a period of two years other than posting interest [39].",
+            "Escrow Account": "It is the temporary pass-through an account held by third parties during a transaction between two parties [40].",
+            "GILT Account": "These accounts are maintained by investors with the Primary dealers for holding their Government securities and Treasury bills in Demat form [41]."
+          }
+        }
+      ]
+    },
+    {
+      "topic": "6. Payment Types",
+      "subtopics": [
+        {
+          "subtopic": "1. Standing Instruction",
+          "content": "It is an instruction/order a bank account holder gives to their bank to pay a set amount at regular intervals to another account [41]. Ex: Salary payments, payments of bills, electricity bills, repayment of loan, inter account transfer of funds [41]."
+        },
+        {
+          "subtopic": "2. Debit Card/Credit Card",
+          "content": "Both are plastic cards that work on financial platforms like Visa, MasterCard, RuPay [41]. They are instruments to facilitate financial transactions, without the need for carrying cash [41]. Liquidity is assured on a 24x7 basis [42]."
+        },
+        {
+          "subtopic": "3. Visa and Mastercard",
+          "content": "VISA and MasterCard are payment processing institutions, and several financial institutions use these platforms to facilitate services through debit cards and credit cards [42]. Both are accepted at several merchant outlets [43]. **NPCI developed the RuPay platform (Developed by India)** [43]."
+        },
+        {
+          "subtopic": "4. NPCI and Its Operations",
+          "content": "**It is the National Payments Corporation of India** [44]. It was incorporated in December 2008 [44]. Products of NPCI include: National Financial Switch(NFS), Automated Clearing House, Immediate Payment Service, Cheque Truncation System, Aadhar Payment Bridge System, and RuPay Card [44]."
+        },
+        {
+          "subtopic": "5. Payments and Settlements System",
+          "content": {
+            "UPI (Unified Payment Interface)": "UPI is an instant payment system developed by the National Payments Corporation of India (NPCI) [45]. It is built over the IMPS infrastructure and allows for the instant transfer of money between any two parties’ bank accounts [45]. A Virtual Payment Address (VPA) is a unique identifier which you can use to send and receive money on UPI [45]. The transaction limit per UPI transaction is ₹1 lakh [45]. The transaction limit per day for UPI transactions is ₹1 Lakh [46]. The maximum number of UPI transactions is limited to 20 [46]. [#UPI Chalega] is a campaign by NPCI to promote the UPI payment system [46].",
+            "BHIM (Bharat Interface for Money)": "BHIM is a payments app that facilitates simple and quick transactions using UPI [47]. It allows you to make direct bank payments to any bank account on UPI with the help of a UPI ID and PIN [47]. The BHIM app was developed by National Payments Corporation of India (NPCI) [47]. A user can send up to Rs.40,000 per transaction and a maximum of Rs.40,000 per day for one bank account [48]. There is no limit to the amount of money you can receive via BHIM [49].",
+            "IFSC Code": "It is the Indian Financial System Code [49]. It is an alpha-numeric code which identifies any branch under the NEFT system [49]. The IFSC code is a must for NEFT and RTGS transactions [50]. It is an 11-digit code [50].",
+            "NEFT Code": "It is a nationwide payment system facilitating one-to-one funds transfer [50]. There is no limit for the minimum or maximum amount of transfer (For amounts of Rs.2 Lakh and above, RTGS is used) [50]. The Reserve Bank of India (RBI) has allowed the round-the-clock (24×7) transactions facility under the National Electronic Funds Transfer (NEFT) system to customers on all days [51]. NEFT operates on a 48 half-hourly basis [51]. There is no charge for NEFT transactions as per RBI's latest guidelines [51].",
+            "RTGS Code": "Real-time gross settlement (RTGS) refers to a funds transfer system that allows for the instantaneous transfer of money and/or securities [51]. RTGS is the continuous process of settling payments on an individual order basis without netting debits with credits across the books of a central bank [52]. The Real Time Gross Settlement System (RTGS) is now available round-the-clock from December 2020 [52]. The minimum limit is 2 lakh, maximum limit is none [52].",
+            "IMPS Mode": "IMPS stands for Immediate Payment Service in Indian banking system terminologies [53]. The major feature of IMPS is that it is available at all times for usage [53]. It transfers funds instantly [53]. The transaction charges are very nominal and the transfer limit is approximately Rupees 2 lakhs per day [53].",
+            "SWIFT Code": "SWIFT stands for Society for Worldwide Interbank Financial Telecommunication [53]. This code is used particularly for interbank transfer of money between banks [54]. The SWIFT code consists of 8 or 11 characters; when the code is 8 digits, it refers to the primary office [54]. India, China and Russia have partnered together to explore an alternative to the SWIFT payment mechanism [55]."
+          }
+        },
+        {
+          "subtopic": "6. Currency Notes and their dimensions",
+          "content": {
+            "1 Rupee Note": "Dimensions: 97mm X 63 mm, Base Colour: Pink Green, Motif: Sagar Samrat [56]",
+            "10 Rupee Note": "Dimensions: 63 mm X 123 mm, Base Colour: Chocolate Brown, Motif: Sun Temple (Odisha) [56]",
+            "20 Rupee Note": "Dimensions: 63 mm X 147 mm, Base Colour: Greenish Yellow, Motif: Ellora Caves (Maharashtra) [56]",
+            "50 Rupee Note": "Dimensions: 66 mm X 135 mm, Base Colour: Fluorescent Blue, Motif: Hampi with Chariot (Karnataka) [56]",
+            "100 Rupee Note": "Dimensions: 66 mm X 142 mm, Base Colour: Lavender, Motif: Rani Ki vav (Gujarat) [56]",
+            "200 Rupee Note": "Dimensions: 66 mm X 146 mm, Base Colour: Bright Yellow, Motif: Sanchi Stupa (Madhya Pradesh) [57]",
+            "500 Rupee Note": "Dimensions: 66 mm X 150 mm, Base Colour: Stone Grey, Motif: Red Fort (Delhi) [57]",
+            "2000 Rupee Note": "Dimensions: 66 mm X 166 mm, Base Colour: Magenta, Motif: Mangalyaan (India’s Mars Orbiter) [57]"
+          }
+        }
+      ]
+    },
+
+    {
+      "topic": "7. Negotiable Instruments",
+      "subtopics": [
+        {
+          "subtopic": "1. Negotiable Instrument Act, 1881",
+          "content": "These are written documents [58]. They are transferable from one person to another merely by delivery in the case of a “bearer instrument” [58]. They are transferable by endorsement in the case of an “order instrument” [58]. The owner is the “bonafide holder for value” [59]."
+        },
+        {
+          "subtopic": "2. Bill of Exchange",
+          "content": "It must be in writing and duly signed by its drawer [59]. It should contain an order to pay [59]. The parties to the transaction must be certain [59]. A bill of exchange is used in transactions pertaining to goods and services [59]."
+        },
+        {
+          "subtopic": "3. Promissory Note",
+          "content": "A promissory note is an unconditional commitment made in writing and signed by a debtor to make payment to a specified person [60]. It is always in writing [60]. It is drawn for a specified duration for a specified sum of money [60]."
+        },
+        {
+          "subtopic": "4. Cheque",
+          "content": "A cheque is a negotiable instrument, containing an unconditional order to pay a certain sum of money [61]. There is a statutory obligation on the part of a banker to make payment if it is drawn by the drawer, drawn upon a specified banker, and payable on demand to a specific person [61]. It should be properly dated [61]. It should be signed by the maker/drawer [62]. There are three parties in a cheque transaction: Drawer, Drawee, and Payee [62]. If it is a self-cheque, the payee will be the drawer [62]."
+        },
+        {
+          "subtopic": "5. Associated with cheque",
+          "content": {
+            "Order cheque": "A cheque payable to a particular person or their order [62].",
+            "Bearer cheque": "A cheque payable to whoever bears it [62].",
+            "Blank cheque": "Except for the signature, all other columns are blank [63].",
+            "Stale cheque": "A cheque which is more than three months old [63].",
+            "Mutilated cheque": "A cheque which is torn into two or more pieces [63].",
+            "Post-dated cheque": "A cheque which bears a date later than the date of issue [64].",
+            "Open cheque": "A cheque which has not been crossed [64].",
+            "Crossed cheque": "A cheque which carries two parallel transverse lines across the face of the cheque [64]."
+          }
+        },
+        {
+          "subtopic": "6. MICR Code On Cheque",
+          "content": "It is Magnetic Ink Character Recognition (MICR) [64]. It is a 9-digit code [64]. The first three digits represent the city or district [64]. The next three digits represent the name of the bank [65]. The last three digits represent the location of the branch [65]."
+        },
+        {
+          "subtopic": "7. Crossing of Cheque",
+          "content": "This is to prevent the possibility of the cheque falling into the hands of wrong or unauthorized parties [65]. If a cheque is crossed, the bank is not to pay across the counter in cash, but should be paid to the account holder only [65]. Types of crossings are: general crossing, special crossing, restrictive crossing, and non-negotiable crossing [66]."
+        },
+        {
+          "subtopic": "8. Endorsement of Cheque",
+          "content": "Endorsement means the signature of the holder made with the object of transferring the document [67]. It is the signature & message on the back of a cheque to either cash it, deposit it, or to hand over the rights of the cheque to someone else [67]."
+        },
+        {
+          "subtopic": "9. Demand draft/ cheque",
+          "content": "It is a Bill of Exchange drawn by a bank on another bank or by itself to its other branch to pay to the third party [67]. It is not mentioned in the Negotiable Instruments Act [67]. Demand drafts are commonly used by customers of banks [68]."
+        },
+        {
+          "subtopic": "10. CTS - 2010",
+          "content": "It is the Cheque Truncation System – 2010 [68]. Truncation is the process of stopping the flow of the physical cheque [68]. The physical instrument will be truncated at some point en route to the drawee branch and it will be verified digitally [69]. Hence the need to move the cheque physically will be eliminated [69]."
+        }
+      ]
+    },
+    {
+      "topic": "8. Concept Of Loans and Advances",
+      "subtopics": [
+        {
+          "subtopic": "1. Loans and Advances",
+          "content": "Loans and advances are given by banks for various purposes, such as home loans, personal loans, car loans, loans against securities, agriculture loans, corporate loans, and mortgage loans [70]."
+        },
+        {
+          "subtopic": "2. Index for loans",
+          "content": {
+            "BPLR(2003)": "It is a Benchmark Prime Lending Rate. It is not transparent in nature [70]. It resulted in one borrower getting a loan at a lower interest rate than another [71].",
+            "Base Rate(2009)": "It is the interest rate below which scheduled commercial banks will not lend loans to their customers [71]. All categories of loans are priced with reference to the base rate [72]. Main components of calculating this base rate were: Cost of funds, Operating expenses, Profit, and Negative carry on CRR and SLR [72].",
+            "MCLR(2016)": "MCLR stands for Marginal Cost of Funds based Lending Rate [73]. MCLR replaced the base rate to benefit borrowers by cutting down the actual lending rates [73]. Marginal Cost of Lending Rate consists of the following components: Marginal cost of funds, Negative carry on account of CRR, Operating costs, and Tenor premium [73].",
+            "External Benchmark Rate( Repo Rate)(2019)": "RBI announced that all new floating rate personal or retail loans and floating rate loans to Micro and Small Enterprises extended by banks from October 1, 2019, shall be linked to external benchmarks [74]. Once in 3 months, banks have to change their external benchmark rate effectively [75]."
+          }
+        },
+        {
+          "subtopic": "3. The Exception Category",
+          "content": "Loans granted under the DRI (Differential Rate of Interest) scheme, Loans to own employees of the bank, and Loans to depositors of the bank against their own deposits [75]."
+        },
+        {
+          "subtopic": "4. DRI",
+          "content": "Differential Rate of Interest (DRI) is a lending program launched by the GOI in 1972 [75]. All scheduled commercial banks have to lend 1% of the total advances of the previous year to the ‘poorest among the poor’ [76]. The interest rate will be 4% per annum [76]. It is a need-based financial assistance to those who intend to take up any productive activity [76]."
+        },
+        {
+          "subtopic": "5. Other exemptions",
+          "content": {
+            "Crop loan": "In the case of crop loans up to Rs 3 lakh, interest rates are specified by the Govt. of India [77].",
+            "Rupee export credit advances": "In the case of rupee export credit advances, interest rates can be below the base rate to the extent of interest subvention available [77]."
+          }
+        },
+        {
+          "subtopic": "6. ALMC(Asset Liability Management Committee)",
+          "content": "When the period base rate was effective, it was to be reviewed at least once a quarter with the approval of the Board or Asset Liability Management Committee (ALMC) [77]. Banks should convey the change in base rates to the general public [78]. Banks can choose fixed or floating rates [78]. Banks are free to determine service charges for any type of transaction [78]."
+        },
+        {
+          "subtopic": "7. Reverse Mortgage Loan",
+          "content": "It is primarily intended for senior citizens (60+ age) [78]. Married couples are also eligible. One should be 60+ age and the other should not be below 55 years [78]. Lender will have a lien over that property [79]. Interest rates will be less [79]."
+        },
+        {
+          "subtopic": "8. Secured Loan",
+          "content": "A loan that is backed by a pledge of collateral [79]. The lender will have lien over that property [79]. The interest rate will be less [79]. Ex: Vehicle loan, Home loan [79]."
+        },
+        {
+          "subtopic": "9. Unsecured loan",
+          "content": "An unsecured loan is one in which the borrower does not have to pledge any collateral [79]. It is also called a signature loan [79]. The interest rate will be high [80]. Ex: Personal Loan [80]."
+        },
+        {
+          "subtopic": "10. Term loan/ Revolving Credit",
+          "content": "A revolving credit is a line of credit where the customer pays a commitment fee and is then allowed to use the funds when needed [80]. It is usually used for operating purposes [80]. Revolving lines of credit can be taken out by both corporations and individuals [80]."
+        }
+      ]
+    },
+    {
+      "topic": "9: Types of Lending",
+      "subtopics": [
+        {
+          "subtopic": "1. Overdraft/Cash credit Account",
+          "content": "A borrower can withdraw funds as needed, up to the credit limit set by the bank [1]. Interest is charged only on the amount borrowed [1]. The distinction between overdraft and cash credit lies in the nature of the security. Cash credit accounts are secured by the pledge/hypothecation of goods [1]."
+        },
+        {
+          "subtopic": "2. Fixed and floating interest rate",
+          "content": "Fixed interest rates remain constant throughout the loan tenure, while floating rates fluctuate with market changes [1]. Fixed interest rates are generally higher than floating rates [1]."
+        },
+        {
+          "subtopic": "3. EMI",
+          "content": "An Equated Monthly Installment (EMI) is a fixed amount paid monthly by the borrower, consisting of both principal and interest [1]. The schedule showing the breakdown of principal and interest is called the Amortization Schedule [1]."
+        },
+        {
+          "subtopic": "4. Moratorium and Amortization",
+          "content": "A moratorium is a temporary period during which loan payments are not required, also known as a grace period [1]. Amortization refers to the process of spreading payments over multiple periods [1]."
+        },
+        {
+          "subtopic": "5. Collateral Security",
+          "content": "Collateral security refers to assets offered by the borrower to secure a loan [1]. Loans with collateral typically have lower interest rates [1]. Loans without collateral are considered unsecured and have higher interest rates [1]."
+        },
+        {
+          "subtopic": "6. Lessor and Lessee",
+          "content": "The lessor, or landlord, is the rightful owner of a property, while the lessee gains the right to use it through periodic payments, for a specified period of time [1]. "
+        },
+        {
+          "subtopic": "7. Bailor and Bailee",
+          "content": "Bailment is the transfer of possession of an asset or property for a specific purpose. The bailor retains ownership and the bailee cannot use the property and is responsible for its safe keeping and eventual return [1]. "
+        }
+      ]
+    },
+    {
+      "topic": "10: Priority Sector Lending",
+      "subtopics": [
+        {
+          "subtopic": "1. Priority Sector Lending",
+          "content": "**Priority sector lending (PSL)** involves small-value loans to sectors that may not receive adequate credit otherwise [2]. It includes agriculture, MSMEs, social infrastructure, renewable energy, and housing for the poor [2]. All public and private banks must maintain **40% of their lending** to the priority sector [2]. The targets are a percentage of ANBC or credit equivalent amount of off-balance sheet exposure, whichever is higher [2, 3]."
+        },
+        {
+          "subtopic": "2. Agriculture",
+          "content": "18% of ANBC is allocated to agriculture within the 40% priority sector lending, with 8% for small and marginal farmers [2]. A marginal farmer has land up to 2.5 acres, while a small farmer has land between 2.5 and 5 acres [2]."
+        },
+        {
+          "subtopic": "3. MSME",
+          "content": "7.5% of the 40% priority sector lending is allocated to **Micro, Small, and Medium Enterprises (MSMEs)** [2]. Micro enterprises have investments up to ₹1 crore and turnover below ₹5 crore. Small enterprises have investments up to ₹10 crore and turnover below ₹50 crore. Medium enterprises have investments up to ₹50 crore and turnover below ₹250 crore [2]."
+        },
+        {
+          "subtopic": "4. Export Credit",
+          "content": "Incremental export credit up to 2% of ANBC is classified under priority sector lending [2]. RBI has increased the limit for classifying export credit under PSL to ₹40 crore from ₹25 crore [2]."
+        },
+        {
+          "subtopic": "5. Education",
+          "content": "Education loans up to ₹10 lakh for studies in India and ₹20 lakh for studies abroad are covered under PSL [2]."
+        },
+        {
+          "subtopic": "6. Housing",
+          "content": "Housing loans up to ₹35 lakh in metropolitan centers and ₹25 lakh in other centers are eligible under PSL, with the total cost of the dwelling unit not exceeding ₹45 lakh and ₹30 lakh respectively [2]."
+        },
+        {
+          "subtopic": "7. Social Infrastructure",
+          "content": "Bank loans up to ₹5 crore per borrower for social infrastructure projects like schools and healthcare in Tier II to Tier VI centers are included under PSL [2]."
+        },
+        {
+          "subtopic": "8. Renewable Energy",
+          "content": "Bank loans up to ₹15 crore per borrower for renewable energy projects like solar power are covered under PSL [2]."
+        },
+        {
+          "subtopic": "9. Others",
+          "content": "This category includes loans to weaker sections with a target of 10% of ANBC, which includes small and marginal farmers, artisans, DRI beneficiaries, women beneficiaries up to ₹1 lakh per borrower, persons with disabilities, and minority communities [2]."
+        },
+        {
+          "subtopic": "10. PLSC",
+          "content": "**Priority Sector Lending Certificates (PSLCs)** help banks that do not achieve PSL targets. A platform for trading the certificates is available through RBI's e-Kuber portal [2]. There are four types of PSLCs: Agriculture, Small and Marginal Farmers, Micro Enterprises, and General [2]."
+        }
+      ]
+    },
+    {
+      "topic": "11: NPA and its resolution",
+      "subtopics": [
+        {
+          "subtopic": "1. NPA",
+          "content": "A **Non-Performing Asset (NPA)** is a loan that ceases to generate income for the bank [4]. A loan becomes an NPA when interest or principal payments are overdue for more than 90 days [4]. NPAs are categorized into **Substandard, Doubtful, and Loss Assets** [4]."
+        },
+        {
+          "subtopic": "2. Substandard Assets",
+          "content": "Substandard assets are those that have remained NPAs for less than or equal to 12 months [4]."
+        },
+        {
+          "subtopic": "3. Doubtful Assets",
+          "content": "Doubtful assets are those that remain in the substandard category for 12 months [4]."
+        },
+        {
+          "subtopic": "4. Lossed Assets",
+          "content": "Loss assets are those where the loss has been identified but the amount has not been written off [4]."
+        },
+        {
+          "subtopic": "5. Actions Taken banks against NPA",
+          "content": "Banks may offer restructuring of loans with longer repayment periods, moratoriums, additional loans, or reduced interest rates for genuine reasons. If non-repayment is not due to genuine reasons, banks may refer the matter to **Debt Recovery Tribunals (DRTs)** or **Asset Reconstruction Companies (ARCs)**, file winding up petitions, or initiate criminal cases against willful defaulters [4]."
+        },
+        {
+          "subtopic": "6. JLF",
+          "content": "A **Joint Lenders’ Forum (JLF)** is mandatory at the SMA-2 stage if the loan exposure is ₹100 crore or more [4]."
+        },
+        {
+          "subtopic": "7. SDR",
+          "content": "**Strategic Debt Restructuring (SDR)** involves converting debt into equity, with banks assuming management to turn around the company [4]."
+        },
+        {
+          "subtopic": "8. CDR",
+          "content": "**Corporate Debt Restructuring (CDR)** is a mechanism for restructuring loans for corporates affected by genuine factors, with outstanding exposure of ₹10 crore or more [4]. It allows for extension of repayment periods, reduction in interest rates, moratoriums, or additional loans [4]."
+        },
+        {
+          "subtopic": "9. DRT",
+          "content": "**Debt Recovery Tribunals (DRTs)** were established to help banks and FIs recover dues from persons/companies. Issues are to be settled in six months, but the success rate is low [4]."
+        },
+        {
+          "subtopic": "10. ARC",
+          "content": "**Asset Reconstruction Companies (ARCs)** are formed under the SARFAESI Act to recover NPAs without court intervention [4]. Banks can sell declared bad loans to ARCs [4]."
+        },
+        {
+          "subtopic": "11. Petition in court Law",
+          "content": "Criminal cases can be filed against borrowers in the case of wilful default, though it is rarely used by banks [4]."
+        },
+        {
+          "subtopic": "12. Criminal cases against wilful defaulters",
+          "content": "Winding up petitions can be filed if a borrower fails to pay back a loan under the Companies Act. The official liquidator will be appointed if there is a genuine reason [4]."
+        }
+      ]
+    },
+    {
+      "topic": "12: Monetary policy and RBI regulation",
+      "subtopics": [
+        {
+          "subtopic": "1. Money flows in the banking systems",
+          "content": "The RBI Act of 1934 was amended in 2016 to create a **Monetary Policy Committee** for price stability and growth [5]. Money deposited in banks is used for lending, which generates interest income [5]. Banks do not keep all the deposited money as it is, and a bank would fail if all depositors tried to withdraw their deposits at once. The RBI acts as a banker to the banks, providing money when needed [5]."
+        },
+        {
+          "subtopic": "2. Reserve ratio",
+          "content": "Banks must maintain a **Cash Reserve Ratio (CRR)** with RBI [5]. It is a percentage of their net demand and time liabilities. Banks must also maintain a portion of their total deposits as **Statutory Liquidity Ratio (SLR)** in cash, gold, or approved securities [5]."
+        },
+        {
+          "subtopic": "3. Policy rate",
+          "content": "The **Repo rate** is the interest rate at which banks borrow from RBI by selling securities and promising to buy them back later. The **Reverse repo rate** is the rate at which RBI borrows from banks [5].  **Marginal Standing Facility (MSF)** allows banks to borrow overnight from RBI and the **Bank rate** is the interest at which the central bank lends money to banks without collateral [5]."
+        },
+        {
+          "subtopic": "4. Open Marketing Operations(OMO)",
+          "content": "**Open Market Operations (OMO)** involve RBI buying government securities to increase liquidity, or selling securities to reduce liquidity in the system [5]."
+        },
+        {
+          "subtopic": "5. Quantitative Credit Controls",
+          "content": "(Not Specified)"
+        },
+        {
+          "subtopic": "6. Qualitative Credit Controls",
+          "content": "(Not Specified)"
+        },
+        {
+          "subtopic": "7. Disinvestments",
+          "content": "**Disinvestment** is the process of the government selling its stake in a company or organization where it has more than 51% ownership [5]."
+        },
+        {
+          "subtopic": "8. Privatization",
+          "content": "**Privatization** is the process of transferring an enterprise from government to private ownership [5]."
+        },
+        {
+          "subtopic": "9. Fund based Support",
+          "content": "Examples include vehicle, agriculture, and personal loans, overdraft, and cash credit accounts [5]."
+        },
+        {
+          "subtopic": "10. Non-Fund based Support",
+          "content": "Examples include bank guarantees and letters of credit [5]."
+        }
+      ]
+    },
+    {
+      "topic": "13: BASEL Norms",
+      "subtopics": [
+        {
+          "subtopic": "1. BASEL NORMS",
+          "content": "The **Basel Committee on Banking Supervision (BCBS)** was formed in 1974 [6]."
+        },
+        {
+          "subtopic": "2. BASEL 1 Norms",
+          "content": "**Basel I** (1988) introduced the capital measurement system. It fixed the minimum capital requirement at 8% of risk-weighted assets (RWA) [6]."
+        },
+        {
+          "subtopic": "3. BASEL 2 Norms",
+          "content": "**Basel II** (2004) had three pillars: Capital Adequacy Requirements, Supervisory Review, and Market Discipline. Banks were required to maintain a minimum capital adequacy requirement of 8% of risk assets. Basel II failed to cover systemic risk [6]."
+        },
+        {
+          "subtopic": "4. BASEL 3 Norms",
+          "content": "**Basel III** (2010) aims to promote a more flexible banking system. It focuses on Capital Adequacy, Leverage Ratio, Net Stable Funding Ratio, and Liquidity Coverage Ratio [6]. It recommended the Capital Adequacy Ratio (CAR) at 8% internationally and 9% in India [6]."
+        }
+      ]
+    },
+    {
+      "topic": "14: Types of Money",
+      "subtopics": [
+        {
+          "subtopic": "1. Dear Money",
+          "content": "**Dear money** is money available at high interest rates, restricting expenditure by companies [7]. "
+        },
+        {
+          "subtopic": "2. Barren Money",
+          "content": "**Barren money** is money that is not earning interest or invested anywhere [7]."
+        },
+        {
+          "subtopic": "3. Hot Money",
+          "content": "**Hot money** is funds controlled by investors seeking short-term, high-interest opportunities. It flows easily in and out of the market [7]."
+        },
+        {
+          "subtopic": "4. Hard Currency",
+          "content": "**Hard currency** is a globally traded currency that serves as a reliable and stable store of value [7]."
+        },
+        {
+          "subtopic": "5. Fiat Money",
+          "content": "**Fiat money** is legal tender backed by a government, not a physical commodity [7]."
+        }
+      ]
+    },
+    {
+      "topic": "15: Types of Banking",
+      "subtopics": [
+        {
+          "subtopic": "1.Branch Banking",
+          "content": "Branch banking involves conducting banking operations through multiple branches. It facilitates better management, inclusion, and risk diversification [8]."
+        },
+        {
+          "subtopic": "2. Para Banking",
+          "content": "**Para banking** includes financial services like credit cards, mutual funds, and pension funds provided by banks [8]."
+        },
+        {
+          "subtopic": "3. Universal Banking",
+          "content": "**Universal banks** offer multiple financial activities under one roof, functioning as both commercial and investment banks [8]."
+        },
+        {
+          "subtopic": "4. Narrow Banking",
+          "content": "**Narrow banking** focuses on investing in risk-free securities like government securities [8]."
+        },
+        {
+          "subtopic": "5. Shadow Banking",
+          "content": "**Shadow banking** includes activities similar to banking but undertaken by non-bank financial entities (NBFCs), which are unregulated or loosely regulated [8]. It includes credit intermediation outside the banking system [8]."
+        },
+        {
+          "subtopic": "6. Unit Banking",
+          "content": "**Unit banking** involves banks operating from a single branch, serving a small community [8]."
+        },
+        {
+          "subtopic": "7. Retail Banking",
+          "content": "**Retail banking** involves transactions directly with customers, offering services like savings accounts and personal loans [8]."
+        },
+        {
+          "subtopic": "8. Wholesale Banking",
+          "content": "**Wholesale banking** provides services for high-net-worth clients such as corporations and commercial banks [8]."
+        },
+        {
+          "subtopic": "9. Virtual Banking",
+          "content": "**Virtual banking** conducts banking operations online [8]."
+        },
+        {
+          "subtopic": "10. Chain Banking",
+          "content": "**Chain banking** occurs when a group of people own and control multiple independently chartered banks [8]."
+        },
+        {
+          "subtopic": "11. Offshore banking:",
+          "content": "**Offshore banking** involves depositing funds in a bank located outside the depositor's country of residence [8]."
+        },
+        {
+          "subtopic": "12. Green banking:",
+          "content": "**Green banking** addresses sustainable development and environmental responsibility [8]."
+        },
+        {
+          "subtopic": "13. Merchant banking:",
+          "content": "**Merchant banking** combines banking and consultancy services [8]."
+        }
+      ]
+    },
+    {
+      "topic": "16: Institutions",
+      "subtopics": [
+        {
+          "subtopic": "1. RBI (Reserve Bank of India)",
+          "content": "The **Reserve Bank of India (RBI)** is the central bank of the country [9]. It is responsible for printing currency notes, managing the money supply, and is a banker to the government and to other banks [9]. The RBI was nationalized on January 1, 1949 [9]. It adopts the Minimum Reserve System for printing the currency notes and maintains gold and foreign exchange reserves [9]."
+        },
+        {
+          "subtopic": "2. BRBNMPL",
+          "content": "**Bharatiya Reserve Bank Note Mudran Private Limited (BRBNMPL)** is a subsidiary of RBI that designs, prints, and supplies banknotes [9]."
+        },
+        {
+          "subtopic": "3. DICGC",
+          "content": "**Deposit Insurance and Credit Guarantee Corporation (DICGC)** is a subsidiary of RBI that insures bank deposits up to ₹5,00,000 per deposit [9]. All commercial banks, including foreign banks, local area banks, and RRBs are insured by the DICGC [9]."
+        },
+        {
+          "subtopic": "4. RRB",
+          "content": "**Regional Rural Banks (RRBs)** were set up to provide loans to farmers. They are jointly owned by the Central Government (50%), State government (15%), and the Sponsor bank (35%) [9]."
+        },
+        {
+          "subtopic": "5. NABARD",
+          "content": "**NABARD (National Bank for Agriculture and Rural Development)** is an apex development bank that provides credit for agriculture and other rural economic activities. It is a refinancing agency [9]."
+        },
+        {
+          "subtopic": "6. Refinance/Direct finance",
+          "content": "**Refinance** is when development financial institutions arrange finance to banks and **direct finance** is when banks finance customers directly [9]."
+        },
+        {
+          "subtopic": "7. Lead Bank Scheme",
+          "content": "The **Lead Bank Scheme** aims to extend the reach of banks to rural areas. It identifies districts with lead banks that act as coordinators for credit deployment [9]."
+        },
+        {
+          "subtopic": "8. Service Area Approach",
+          "content": "The **Service Area Approach** aims for coordination among financial institutions in a district to achieve economic development in rural areas [9]."
+        },
+        {
+          "subtopic": "9. Co-operative banks",
+          "content": "Co-operative banks are classified into Urban Cooperative Banks (UCBs) and Rural Cooperative Banks [9]. UCBs are monitored by RBI, while Rural Cooperative Banks operate at state, district, and village levels [9]."
+        },
+        {
+          "subtopic": "10. MUDRA",
+          "content": "**MUDRA (Micro Units Development and Refinance Agency)** is a public sector financial institution that provides low-rate loans to microfinance institutions and NBFCs for MSMEs [9]. Loans are categorized under Shishu (up to ₹50,000), Kishor (₹50,000 to ₹5 lakh), and Tarun (₹5 lakh to ₹10 lakh) [9]."
+        }
+      ]
+    },
+    {
+      "topic": "17: Differentiated banks",
+      "subtopics": [
+        {
+          "subtopic": "1. NBFC",
+          "content": "A **Non-Banking Financial Company (NBFC)** is engaged in lending and other financial activities but cannot accept demand deposits, issue cheques, or provide deposit insurance. An ombudsman hears complaints against deposit-taking NBFCs [10]."
+        },
+        {
+          "subtopic": "2. Payment banks and Small finance banks",
+          "content": "**Payment banks** can accept restricted deposits up to ₹1 lakh per customer and cannot lend, while **Small finance banks** provide basic banking services, including lending, to small businesses and farmers [10]. Payment banks are restricted to holding a maximum balance of ₹1 lakh per customer, can issue ATM/debit cards but not credit cards [10]. They also should maintain CRR with the RBI. Payment banks must invest at least 75% of demand deposit balances in SLR.  Small finance banks will extend 75% of their adjusted net bank credit to sectors eligible for priority sector lending [10]. Small finance banks have a minimum capital requirement of ₹200 crore and payment banks have a minimum paid-up capital requirement of ₹100 crore [10]."
+        }
+      ]
+    },
+    {
+      "topic": "18: History of Banking & Merger of Banks",
+      "subtopics": [
+        {
+          "subtopic": "1. History of Banking",
+          "content": "The banking system in India began with the Bank of Hindustan in 1770. The **Presidency Banks** (Bank of Bengal, Bank of Bombay, and Bank of Madras) were later merged to form the **Imperial Bank of India** in 1927, which became the State Bank of India in 1955. Allahabad Bank (1865) is the oldest joint stock bank in India. The **Swadeshi movement** led to the establishment of many banks between 1906 and 1911.  In 1969, 14 major banks were nationalized. In 1980, six more banks were nationalized [11]."
+        },
+        {
+          "subtopic": "2. Merger of Banks",
+          "content": "Recent mergers have reduced the number of public sector banks (PSBs) from 27 in 2017 to 12 [11]. Six public sector banks, including OBC and Allahabad Bank, were excluded from the Second Schedule of the RBI Act after their merger with other banks [11]. The mergers resulted in seven large PSBs and five smaller ones. Punjab National Bank (PNB) merged with Oriental Bank of Commerce (OBC) and United Bank of India.  Canara Bank merged with Syndicate Bank. Union Bank of India merged with Andhra Bank and Corporation Bank. Indian Bank merged with Allahabad Bank [11]."
+        }
+      ]
+    },
+    {
+      "topic": "19: Financial Market",
+      "subtopics": [
+        {
+          "subtopic": "1. Financial Market",
+          "content": "A **financial market** facilitates borrowing and lending through bonds, equities, currencies, and derivatives [12]. It is a channel between depositors and borrowers. Financial markets are classified into **money markets** (for short-term credit up to one year) and **capital markets** (for long-term credit over one year) [12]."
+        },
+        {
+          "subtopic": "2. Money market",
+          "content": "The **money market** includes RBI, commercial banks, and NBFCs. It trades instruments like **Treasury bills (T-bills)**, **commercial papers (CPs)**, **certificates of deposits (CDs)**, and **cash management bills** [12]. T-bills are issued by the central government, are highly liquid, and have maturities of 91, 182, or 364 days. CPs are issued by companies, financial institutions and primary dealers with a maturity of 7 days to one year. CDs can be purchased by scheduled commercial banks and all-India financial institutions. Cash management bills are short-term instruments issued by the government [12]."
+        },
+        {
+          "subtopic": "3. Capital Market",
+          "content": "The **capital market** includes stock exchanges, housing finance companies, and insurance companies, and involves long-term borrowing and lending, and also trading of equities and debts [12]. It comprises both the primary and secondary markets. Primary markets deal with the issuance of stocks, secondary markets deal with the exchange of existing securities [12]."
+        },
+        {
+          "subtopic": "4. Composition of capital market",
+          "content": "The capital market consists of security markets (shares and debt instruments), development financial institutions, and financial intermediaries [12]."
+        }
+      ]
+    },
+    {
+      "topic": "20: Foreign Direct Investment and Foreign Portfolio Investment",
+      "subtopics": [
+        {
+          "subtopic": "1. Foreign Direct Investment",
+          "content": "**Foreign Direct Investment (FDI)** involves establishing a direct business interest in a foreign country, such as buying a manufacturing business [13]. FDI is usually undertaken by multinational companies and results in the transfer of funds and technical know-how [13]."
+        },
+        {
+          "subtopic": "2. Foreign Portfolio Investment",
+          "content": "**Foreign Portfolio Investment (FPI)** refers to investing in the financial assets of a foreign country, such as stocks or bonds [13]. FPI does not provide the investor with direct ownership of a company's assets and is relatively liquid [13]."
+        },
+        {
+          "subtopic": "3. Difference Between FDI and FPI",
+          "content": "FDI involves active investors with high control and long-term investment, done on physical assets, whereas FPI has passive investors with low control and short-term investment in financial assets [13]. FDI leads to transfer of funds, technology and other resources to the foreign country, while FPI involves capital inflows to the foreign country [13]."
+        }
+      ]
+    },
+    {
+      "topic": "21: Banking Terminologies",
+      "subtopics": [
+        {
+          "subtopic": "1. Differentiated bank(niche)",
+          "content": "**Differentiated banks** or niche banks like payment banks and small finance banks, undertake only limited activities [14]."
+        },
+        {
+          "subtopic": "2. Green field/ Brown field",
+          "content": "A **greenfield** project is a fresh project without any link to a previous project, while a **brownfield** project involves expanding or modifying an existing project [14]."
+        },
+        {
+          "subtopic": "3. Bridge loan",
+          "content": "A **bridge loan** is a short-term finance used to bridge the gap between the purchase and sale of a property or to tide over short-term obligations [14]."
+        },
+        {
+          "subtopic": "4. Channel finance",
+          "content": "**Channel finance** provides working capital to dealers with business relationships with large companies [14]."
+        },
+        {
+          "subtopic": "5. Insolvency",
+          "content": "**Insolvency** is a financial state where an entity cannot repay its debt because the debts are greater than the fair market value of assets [14]."
+        },
+        {
+          "subtopic": "6. Bankruptcy",
+          "content": "**Bankruptcy** is a legal procedure where an insolvent person files for protection from creditors and surrenders assets to a trustee [14]."
+        },
+        {
+          "subtopic": "7. Liquidation",
+          "content": "**Liquidation** is the process of dissolving a company by selling all its assets and paying outstanding creditors [14]."
+        },
+        {
+          "subtopic": "8. Asset",
+          "content": "An **asset** is a resource with economic value that an individual or corporation owns [14]."
+        },
+        {
+          "subtopic": "9. Actuaries",
+          "content": "**Actuaries** are experts in economics, statistics and mathematics who help in risk assessment for an insurance business [14]."
+        },
+        {
+          "subtopic": "10. Accounts Receivable",
+          "content": "**Accounts receivable** is the money owed by clients for delivered goods or services [14]."
+        },
+        {
+          "subtopic": "11. Amortization",
+          "content": "**Amortization** is an accounting technique by which intangible assets are written off over time [14]."
+        },
+        {
+          "subtopic": "12. Accounts Payables",
+          "content": "**Accounts payables** is the money a company owes to creditors [14]."
+        },
+        {
+          "subtopic": "13. Annuity",
+          "content": "An **annuity** is an investment scheme where recurring investments are made and a lump sum payment is made at the end [14]."
+        },
+        {
+          "subtopic": "14. Arbitrage",
+          "content": "**Arbitrage** is the simultaneous buying and selling of an asset from different platforms to profit from price differences [14]."
+        },
+        {
+          "subtopic": "15. Bancassurance",
+          "content": "**Bancassurance** is the selling of insurance products through banks [14]."
+        },
+        {
+          "subtopic": "16. Balance of payment",
+          "content": "**Balance of payment** is the difference between a country's exports and imports [14]."
+        },
+        {
+          "subtopic": "17. Bank Rate",
+          "content": "**Bank rate** is the rate charged by the central bank for lending funds to commercial banks [14]."
+        },
+        {
+          "subtopic": "18. Basis Point",
+          "content": "A **basis point** is one-hundredth of 1% used to indicate the cost of finance [14]."
+        },
+        {
+          "subtopic": "19. Balance Sheet:",
+          "content": "A **balance sheet** summarizes a company's assets, liabilities, and equity [14]."
+        },
+        {
+          "subtopic": "20. Bitcoin:",
+          "content": "**Bitcoin** is a virtual currency, a decentralized means of tracking and assigning wealth [14]."
+        },
+        {
+          "subtopic": "21. Bond:",
+          "content": "A **bond** is a debt instrument used by corporations and governments to generate capital [14]."
+        },
+        {
+          "subtopic": "22. Capital:",
+          "content": "**Capital** is a financial asset, such as cash, or the value of a financial asset. Working capital is current assets subtracted from current liabilities [14]."
+        },
+        {
+          "subtopic": "23. Core Banking Solutions (CBS):",
+          "content": "**Core Banking Solutions (CBS)** is a networking of bank branches which enables customers to operate their accounts from any branch on the CBS network [14]."
+        },
+        {
+          "subtopic": "24. Credit:",
+          "content": "**Credit** is an accounting entry that may decrease assets or increase liabilities and equity on a balance sheet [14]."
+        },
+        {
+          "subtopic": "25. Dividend:",
+          "content": "A **dividend** is the amount per share paid by a company to its shareholders based on its profitability [14]."
+        },
+        {
+          "subtopic": "26. Demat Account:",
+          "content": "A **demat account** is where share certificates are converted into electronic form [14]."
+        },
+        {
+          "subtopic": "27. Deflation:",
+          "content": "**Deflation** is when the overall price level decreases, leading to a negative inflation rate [14]."
+        },
+        {
+          "subtopic": "28. Diversification:",
+          "content": "**Diversification** is allocating capital into varied assets to avoid overexposure to risk [14]."
+        },
+        {
+          "subtopic": "29. Depreciation",
+          "content": "**Depreciation** is the decrease in the monetary value of an asset over time [14]."
+        },
+        {
+          "subtopic": "30. Equity",
+          "content": "**Equity** is calculated as Total assets - Total liabilities [14]."
+        },
+        {
+          "subtopic": "31. EMI:",
+          "content": "**EMI** or Equated Monthly Installment is an equally divided monthly payment to clear off a loan [14]."
+        },
+        {
+          "subtopic": "32. Exchange Rate:",
+          "content": "An **exchange rate** is the price of one currency in terms of another [14]."
+        },
+        {
+          "subtopic": "33. Face value",
+          "content": "**Face value** is the amount mentioned on the face of a bond certificate [14]."
+        },
+        {
+          "subtopic": "34. Fiscal Deficit :",
+          "content": "**Fiscal deficit** is the difference between total revenue and total expenditure of the government [14]."
+        },
+        {
+          "subtopic": "35. Inflation",
+          "content": "**Inflation** is an increase in the quantity of money in circulation, causing a rise in price levels [14]."
+        },
+        {
+          "subtopic": "36. Insolvency",
+          "content": "**Insolvency** is when an individual or organization cannot meet financial obligations [14]."
+        },
+        {
+          "subtopic": "37. Initial Public Offering(IPO)",
+          "content": "An **IPO** is when a private company raises investment capital by offering stock to the public for the first time [14]."
+        },
+        {
+          "subtopic": "38. Liquidity",
+          "content": "**Liquidity** is how quickly one can get cash when needed [14]."
+        },
+        {
+          "subtopic": "39. Marginal Standing Facility :",
+          "content": "**MSF** is a window for banks to borrow from RBI in emergencies [14]."
+        },
+        {
+          "subtopic": "40. Market Capitalisation",
+          "content": "**Market capitalization** is the aggregate valuation of a company based on its share price and outstanding stocks [14]."
+        },
+        {
+          "subtopic": "41. Mortgage",
+          "content": "A **mortgage** is a legal agreement that conveys conditional ownership of property to a lender as security for a loan [14]."
+        },
+        {
+          "subtopic": "42. Mutual fund",
+          "content": "A **mutual fund** is a professionally managed investment fund that pools money from investors to purchase securities [14]."
+        },
+        {
+          "subtopic": "43. Open Market Operations",
+          "content": "**Open Market Operations (OMO)** involves RBI buying and selling government securities to regulate the money supply [14]."
+        },
+        {
+          "subtopic": "44. Plastic Money",
+          "content": "**Plastic money** is a generic term for bank cards, credit cards, and debit cards [14]."
+        },
+        {
+          "subtopic": "45. Prime Rate",
+          "content": "The **prime rate** is the best rate available to a bank's most credit-worthy customer [14]."
+        },
+        {
+          "subtopic": "46. Prime Lending Rate",
+          "content": "The **prime lending rate** is the interest rate charged by banks to their most secure customers on short-term loans [14]."
+        }
+      ]
+    },
+    {
+      "topic": "22: Banking Abbreviations",
+      "subtopics": [
+        {
+          "subtopic": "",
+          "content": "ACS: Automated Clearing System\n\nADR: American Depository Receipt\n\nAEPS: Aadhar Enabled Payment System\n\nAFS: Annual Financial Statement\n\nAIF: Alternative Investment Fund\n\nALCO: Asset Liability Committee\n\nAML: Anti-Money Laundering\n\nANBC: Adjusted Net Bank Credit\n\nARF: Allocation of Refinance\n\nATM: Automated Teller Machine\n\nBFSI: Banking, Financial Services, and Insurance\n\nBPLR: Benchmark Prime Lending Rate\n\nBRR: Banking Regulation Act\n\nBSR: Bankers' Service Return\n\nCASA: Current Account Saving Account\n\nCBLO: Collateralized Borrowing and Lending Obligation\n\nCD: Certificate of Deposit\n\nCIBIL: Credit Information Bureau (India) Limited\n\nCIF: Customer Information File\n\nCPI: Consumer Price Index\n\nCRR: Cash Reserve Ratio\n\nCIBIL: Credit Information Bureau of India Limited\n\nDICGC: Deposit Insurance and Credit Guarantee Corporation\n\nDP: Demat Participant\n\nECB: External Commercial Borrowings\n\nECS: Electronic Clearing Service\n\nEFT: Electronic Funds Transfer\n\nFII: Foreign Institutional Investor\n\nFSA: Financial Services Authority\n\nFEMA: Foreign Exchange Management Act\n\nFII: Foreign Institutional Investor\n\nGNP: Gross National Product\n\nGDP: Gross Domestic Product\n\nIRR: Internal Rate of Return\n\nLIBOR: London Interbank Offered Rate\n\nLTV: Loan To Value Ratio\n\nMIBOR: Mumbai Interbank Offered Rate\n\nNPA: Non-Performing Asset\n\nNRIs: Non-Resident Indians\n\nNPV: Net Present Value\n\nOCR: Optimum Capital Ratio\n\nPMS: Portfolio Management Service\n\nPLR: Prime Lending Rate\n\nRBI: Reserve Bank of India\n\nRWA: Risk-Weighted Assets\n\nSBI: State Bank of India\n\nSEBI: Securities and Exchange Board of India\n\nSRO: Self Regulatory Organization\n\nTDS: Tax Deducted at Source\n\nWPI: Wholesale Price Index"
+        }
+      ]
+    },
+    {
+      "topic": "23: Schemes Related to Banking",
+      "subtopics": [
+        {
+          "subtopic": "",
+          "content": "Scheme Name: Pradhan Mantri Jan Dhan Yojana.\n\nLaunched: 2014.\n\nLaunched by: PM Modi.\n\nAim: To provide access to various financial services such as savings, insurance, Pension, Credit, Remittance etc. in an affordable manner. It is a financial inclusion campaign which provides universal access to banking facilities and also ensures to provide financial literacy with at least one basic banking account for every household in India.\n\nKey Features: \n  - Universal access to banking facilities,\n  - Financial literacy,\n  - At least one basic banking account for every household,\n  - In response to Covid-19, Rs. 500 per month was provided to every Women Jan-Dhan Account Holder for three months starting March 26, 2020."
+        },
+        {
+          "subtopic": "",
+          "content": "Scheme Name: Atal Pension Yojana.\n\nLaunched: 9th May 2015.\n\nLaunched by: Prime Minister Narendra Modi.\n\nAim: To provide social and financial security to people in their old age by enabling them to make regular savings during their productive years.\n\nEligibility: \n  - Must be a citizen of India,\n  - Must be between the age of 18-50,\n  - Should make contributions for a minimum of 20 years,\n  - Must have a bank account linked with your Aadhar,\n  - Must have a valid mobile number.\n\nKey Features: \n  - Those who are availing benefits of Swavalamban Yojana will be automatically migrated to Atal Pension Yojana,\n  - Ministry: Finance,\n  - Minimum Pension: Rs5000,\n  - Maximum Pension: Rs10000."
+        },
+        {
+          "subtopic": "",
+          "content": "Scheme Name: Pradhan Mantri MUDRA Yojana.\n\nLaunched: 2015.\n\nLaunched by: PM Modi.\n\nAim: To enable Micro Finance Institutions (MFIs), Non-Banking financial institutions/Companies (NBFCs), Small Finance Banks, RBRs, Commercial Banks, Cooperative Banks, etc. to provide Low Rate Loans to eligible entities.\n\nEligibility: In order to avail the benefits of the PMMY Scheme, the person should be a citizen of India. The loans are basically for people having a business plan in a Non-Farming Sector with Income generating activities like Manufacturing, Processing, Trade, Service Sector, or any other fields whose credit demand is less than ₹10 lakhs. The Indian Citizen seeking MUDRA Loans under the PMMY Scheme will have to approach either an MFI, Bank or NBFC to avail it.\n\nTypes of MUDRA Loan: \n  - Shishu: Loan Amount upto 50,000,\n  - Kishor: Loan Amount 50,000 to 5 lakh,\n  - Tarun: Loan Amount 5 lakh to 10 lakhs."
+        },
+        {
+          "subtopic": "",
+          "content": "Scheme Name: Kisan Credit Card.\n\nLaunched: 1998.\n\nMinistry: Finance.\n\nRecommendation: R.V Gupta Committee.\n\nAim: The Kisan Credit Card Scheme aims to provide timely and adequate credit to farmers to meet their needs at the time of crop production (cultivation expenses) and meeting contingency expenses. It also covers expenses related to ancillary activities through simplified procedures in obtaining loans as and when needed.\n\nEligibility: \n  - Farmers – individual/joint borrowers who are owner cultivators,\n  - Tenant farmers, oral lessees & share croppers,\n  - Self Help Groups (SHGs) or Joint Liability Groups (JLGs) of farmers including tenant farmers, share croppers etc.\n\nWho can issue: Commercial Banks, RRBs, Small finance Banks, Cooperatives."
+        },
+        {
+          "subtopic": "",
+          "content": "Scheme Name: Small Savings Scheme.\n\nKey Features: \n  - Public Provident Fund (PPF): Annual Interest Rate: 7.1%,\n  - National Savings Certificate (NSC): Annual Interest Rate: 6.8%,\n  - Kisan Vikas Patra (KVP): Annual Interest Rate: 6.9% (14 months maturity),\n  - Sukanya Samriddhi Account: Annual Interest Rate: 7.6%,\n  - Senior Citizen Savings Scheme: Annual Interest Rate: 7.4%."
+        }
+      ]
+    }
+  ]
+}

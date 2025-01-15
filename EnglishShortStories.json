@@ -1,0 +1,65 @@
+{
+    "englishShortStories": {
+      "adventure": [
+        {
+          "storyTitle": "The Lost Treasure",
+          "author": "John Smith",
+          "description": "An epic tale of a young explorer discovering a hidden island."
+        },
+        {
+          "storyTitle": "Journey to the Unknown",
+          "author": "Sarah Green",
+          "description": "A thrilling story of survival in the Amazon rainforest."
+        }
+      ],
+      "crime": [
+        {
+          "storyTitle": "The Midnight Heist",
+          "author": "Jane Doe",
+          "description": "A cunning thief plans the ultimate robbery."
+        },
+        {
+          "storyTitle": "Shadows of Deceit",
+          "author": "Michael Brown",
+          "description": "A detective unravels a web of lies in a small town."
+        }
+      ],
+      "drama": [
+        {
+          "storyTitle": "The Broken Mirror",
+          "author": "Emily White",
+          "description": "A heartfelt story about family, forgiveness, and love."
+        },
+        {
+          "storyTitle": "Beneath the Surface",
+          "author": "David Blue",
+          "description": "A tale of hidden truths and emotional journeys."
+        }
+      ],
+      "horror": [
+        {
+          "storyTitle": "Whispers in the Dark",
+          "author": "Anna Black",
+          "description": "A chilling story of a haunted house with a dark past."
+        },
+        {
+          "storyTitle": "The Cursed Woods",
+          "author": "Tom Grey",
+          "description": "A group of friends ventures into a forest filled with terrors."
+        }
+      ],
+      "inspirational": [
+        {
+          "storyTitle": "The Mountain Climber",
+          "author": "Laura Hill",
+          "description": "A story of perseverance and achieving the impossible."
+        },
+        {
+          "storyTitle": "From Ashes to Glory",
+          "author": "Robert King",
+          "description": "An inspiring tale of triumph over adversity."
+        }
+      ]
+    }
+  }
+

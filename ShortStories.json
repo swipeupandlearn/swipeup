@@ -1,0 +1,129 @@
+{
+  "category": {
+    "englishShortStories": {
+      "adventure": [
+        {
+          "storyTitle": "The Lost Treasure",
+          "author": "John Smith",
+          "description": "An epic tale of a young explorer discovering a hidden island."
+        },
+        {
+          "storyTitle": "Journey to the Unknown",
+          "author": "Sarah Green",
+          "description": "A thrilling story of survival in the Amazon rainforest."
+        }
+      ],
+      "crime": [
+        {
+          "storyTitle": "The Midnight Heist",
+          "author": "Jane Doe",
+          "description": "A cunning thief plans the ultimate robbery."
+        },
+        {
+          "storyTitle": "Shadows of Deceit",
+          "author": "Michael Brown",
+          "description": "A detective unravels a web of lies in a small town."
+        }
+      ],
+      "drama": [
+        {
+          "storyTitle": "The Broken Mirror",
+          "author": "Emily White",
+          "description": "A heartfelt story about family, forgiveness, and love."
+        },
+        {
+          "storyTitle": "Beneath the Surface",
+          "author": "David Blue",
+          "description": "A tale of hidden truths and emotional journeys."
+        }
+      ],
+      "horror": [
+        {
+          "storyTitle": "Whispers in the Dark",
+          "author": "Anna Black",
+          "description": "A chilling story of a haunted house with a dark past."
+        },
+        {
+          "storyTitle": "The Cursed Woods",
+          "author": "Tom Grey",
+          "description": "A group of friends ventures into a forest filled with terrors."
+        }
+      ],
+      "inspirational": [
+        {
+          "storyTitle": "The Mountain Climber",
+          "author": "Laura Hill",
+          "description": "A story of perseverance and achieving the impossible."
+        },
+        {
+          "storyTitle": "From Ashes to Glory",
+          "author": "Robert King",
+          "description": "An inspiring tale of triumph over adversity."
+        }
+      ]
+    },
+
+    "hindiShortStories": {
+      "adventure": [
+        {
+          "storyTitle": "खोया हुआ खजाना",
+          "author": "राजेश वर्मा",
+          "description": "एक युवा अन्वेषक की एक छिपे हुए द्वीप को खोजने की रोमांचक कहानी।"
+        },
+        {
+          "storyTitle": "अनजानी यात्रा",
+          "author": "सुमन गुप्ता",
+          "description": "अमेज़न जंगल में जीवित रहने की संघर्षपूर्ण कहानी।"
+        }
+      ],
+      "crime": [
+        {
+          "storyTitle": "आधी रात की चोरी",
+          "author": "नीता शर्मा",
+          "description": "एक चालाक चोर की सबसे बड़ी चोरी की योजना।"
+        },
+        {
+          "storyTitle": "धोखे की परछाई",
+          "author": "अजय कुमार",
+          "description": "एक छोटे शहर में एक जासूस द्वारा सच्चाई का पर्दाफाश।"
+        }
+      ],
+      "drama": [
+        {
+          "storyTitle": "टूटा हुआ आईना",
+          "author": "पूनम मिश्रा",
+          "description": "परिवार, माफी और प्यार के बारे में एक दिल को छूने वाली कहानी।"
+        },
+        {
+          "storyTitle": "सतह के नीचे",
+          "author": "मनोज शर्मा",
+          "description": "छुपे हुए सच और भावनात्मक संघर्ष की कहानी।"
+        }
+      ],
+      "horror": [
+        {
+          "storyTitle": "अंधेरे में फुसफुसाहट",
+          "author": "रीना सिंह",
+          "description": "एक प्रेतवाधित घर की डरावनी कहानी।"
+        },
+        {
+          "storyTitle": "शापित जंगल",
+          "author": "अर्जुन चौधरी",
+          "description": "दोस्तों का एक समूह एक खौफनाक जंगल में प्रवेश करता है।"
+        }
+      ],
+      "inspirational": [
+        {
+          "storyTitle": "पर्वतारोही",
+          "author": "अनुजा पाठक",
+          "description": "संकल्प और असंभव को प्राप्त करने की प्रेरणादायक कहानी।"
+        },
+        {
+          "storyTitle": "राख से शिखर तक",
+          "author": "राहुल मिश्रा",
+          "description": "कठिनाइयों पर विजय पाने की एक प्रेरणादायक कहानी।"
+        }
+      ]
+    }
+  }
+}

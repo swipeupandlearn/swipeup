@@ -1,8 +1,8 @@
 {
-  "DocAndCost": [
+  "DocAndCost":{ [
     { "id": 1, "title": "english Short Stories", "price": 51 },
     { "id": 2, "title": "hindi Short Stories", "price": 51 }
-  ],
+  ]},
   "category": {
     "englishShortStories": {
       "adventure": [

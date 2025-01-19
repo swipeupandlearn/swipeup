@@ -1,8 +1,8 @@
 {
-  "DocAndCost":{[
+  "DocAndCost": [
     { "id": 1, "title": "english Short Stories", "price": 51 },
     { "id": 2, "title": "hindi Short Stories", "price": 51 }
-  ]},
+  ],
   "category": {
     "englishShortStories": {
       "adventure": [
@@ -12,7 +12,7 @@
           "description": "An epic tale of a young explorer discovering a hidden island."
         },
         {
-          "storyTitle": "Journey To The Unknown",
+          "storyTitle": "Journey to the Unknown",
           "author": "Sarah Green",
           "description": "A thrilling story of survival in the Amazon rainforest."
         }
@@ -66,6 +66,7 @@
         }
       ]
     },
+
     "hindiShortStories": {
       "adventure": [
         {
@@ -116,3 +117,17 @@
         }
       ],
       "inspirational": [
+        {
+          "storyTitle": "पर्वतारोही",
+          "author": "अनुजा पाठक",
+          "description": "संकल्प और असंभव को प्राप्त करने की प्रेरणादायक कहानी।"
+        },
+        {
+          "storyTitle": "राख से शिखर तक",
+          "author": "राहुल मिश्रा",
+          "description": "कठिनाइयों पर विजय पाने की एक प्रेरणादायक कहानी।"
+        }
+      ]
+    }
+  }
+}

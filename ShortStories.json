@@ -1,5 +1,8 @@
 {
-  "DocAndCost":[{ id: 1, title: "english Short Stories", price: 51 },{ id: 2, title: "hindi Short Stories", price: 51}],
+  "DocAndCost": [
+    { "id": 1, "title": "english Short Stories", "price": 51 },
+    { "id": 2, "title": "hindi Short Stories", "price": 51 }
+  ],
   "category": {
     "englishShortStories": {
       "adventure": [
@@ -63,7 +66,6 @@
         }
       ]
     },
-
     "hindiShortStories": {
       "adventure": [
         {
@@ -114,17 +116,3 @@
         }
       ],
       "inspirational": [
-        {
-          "storyTitle": "पर्वतारोही",
-          "author": "अनुजा पाठक",
-          "description": "संकल्प और असंभव को प्राप्त करने की प्रेरणादायक कहानी।"
-        },
-        {
-          "storyTitle": "राख से शिखर तक",
-          "author": "राहुल मिश्रा",
-          "description": "कठिनाइयों पर विजय पाने की एक प्रेरणादायक कहानी।"
-        }
-      ]
-    }
-  }
-}

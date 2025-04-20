@@ -1,0 +1,16 @@
+{
+  "DocumentTypes": [
+    {
+      "name": "freeDocumnets",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CSChapter.json"
+    },
+    {
+      "name": "paidDocuments",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CSChapter.json"
+    },
+    {
+      "name": "plans",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/Hindi"
+    }
+  ]
+}

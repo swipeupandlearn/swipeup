@@ -1,0 +1,18 @@
+
+  {
+  "swipeupdata": [
+    {
+      "name": "plans",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CSChapter.json"
+    },
+    
+    {
+      "name": "FreeDocumnet",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CSChapter.json"
+    },
+    {
+      "name": "PaidDocument",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/Hindi"
+    }
+  ]
+}

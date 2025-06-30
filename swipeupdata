@@ -8,11 +8,11 @@
     
     {
       "name": "FreeDocumnet",
-      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CSChapter.json"
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/freedocuments"
     },
     {
       "name": "PaidDocument",
-      "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/freedocuments"
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/PaidDocument"
     }
   ]
 }

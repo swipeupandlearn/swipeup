@@ -1,6 +1,4 @@
-
-   {
-   [
+ [
     {
       "name": "Bank",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CSChapter.json"
@@ -14,5 +12,5 @@
       "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/Hindi"
     }
   ]
-}
+
 

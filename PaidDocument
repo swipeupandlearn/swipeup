@@ -1,0 +1,19 @@
+
+   {
+  "Exams": [
+    {
+      "name": "Bank",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CSChapter.json"
+    },
+    {
+      "name": "SSC",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CSChapter.json"
+    },
+    {
+      "name": "BPSC TRE",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/Hindi"
+    }
+  ]
+}
+  ]
+}

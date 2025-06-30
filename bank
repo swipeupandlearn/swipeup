@@ -1,0 +1,17 @@
+{
+  "Bank": [
+    {
+      "name": "Bank PO",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CSChapter.json"
+    },
+    
+    {
+      "name": "Bank Clerk",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CSChapter.json"
+    },
+    {
+      "name": "Bank IT Officer",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/Hindi"
+    }
+  ]
+}

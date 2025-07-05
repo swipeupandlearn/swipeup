@@ -1,14 +1,14 @@
 [
     {
-      "name": "Bank",
+      "name": "Bank Free",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CSChapter.json"
     },
     {
-      "name": "SSC",
+      "name": "SSC Free",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CSChapter.json"
     },
     {
-      "name": "BPSC TRE",
+      "name": "BPSC TRE Free",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/Hindi"
     }
   ]

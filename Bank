@@ -1,5 +1,4 @@
-{
-  "Bank": [
+ [
     {
       "name": "Bank PO",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/Bank%20PO"
@@ -14,4 +13,4 @@
       "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/Hindi"
     }
   ]
-}
+

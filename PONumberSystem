@@ -1,1 +1,47 @@
-https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/BankPOMath
+[
+  {
+    "topic": "Bank PO Number System",
+    "subtopics": [
+      {
+        "subtopic": "What is Number System?",
+        "content": "A number system is a system of representing numbers using digits or symbols in a consistent manner. The most commonly used number system is the decimal (base-10) system, which includes digits from 0 to 9."
+      },
+      {
+        "subtopic": "Types of Number Systems",
+        "content": "1. Decimal Number System (Base 10)\n2. Binary Number System (Base 2)\n3. Octal Number System (Base 8)\n4. Hexadecimal Number System (Base 16)"
+      },
+      {
+        "subtopic": "Types of Numbers",
+        "content": "1. Natural Numbers (1, 2, 3, ...)\n2. Whole Numbers (0, 1, 2, ...)\n3. Integers (..., -2, -1, 0, 1, 2, ...)\n4. Rational Numbers (e.g., 1/2, 4, -3)\n5. Irrational Numbers (e.g., √2, π)\n6. Real Numbers (combination of rational and irrational numbers)"
+      },
+      {
+        "subtopic": "Prime and Composite Numbers",
+        "content": "Prime numbers are numbers greater than 1 that have only two factors: 1 and itself (e.g., 2, 3, 5, 7). Composite numbers have more than two factors (e.g., 4, 6, 8)."
+      },
+      {
+        "subtopic": "Even and Odd Numbers",
+        "content": "Even numbers are divisible by 2 (e.g., 2, 4, 6), while odd numbers are not divisible by 2 (e.g., 1, 3, 5)."
+      },
+      {
+        "subtopic": "Divisibility Rules",
+        "content": "Rules to check whether a number is divisible by another number without actual division. For example, a number is divisible by 3 if the sum of its digits is divisible by 3."
+      },
+      {
+        "subtopic": "LCM and HCF",
+        "content": "LCM (Least Common Multiple) is the smallest number divisible by two or more numbers. HCF (Highest Common Factor) is the largest number that divides two or more numbers exactly."
+      },
+      {
+        "subtopic": "Conversions Between Number Systems",
+        "content": "Examples include converting binary to decimal, decimal to binary, etc. Essential for solving number system problems efficiently."
+      },
+      {
+        "subtopic": "Practice Questions",
+        "content": "Q1: Find the LCM and HCF of 12 and 18.\nQ2: Convert 1011 (binary) to decimal.\nQ3: Which of the following numbers is a prime number: 15, 17, 21?"
+      },
+      {
+        "subtopic": "Tips and Tricks",
+        "content": "1. Memorize divisibility rules.\n2. Use Euclid's Algorithm to find HCF quickly.\n3. Practice converting between number systems regularly."
+      }
+    ]
+  }
+]

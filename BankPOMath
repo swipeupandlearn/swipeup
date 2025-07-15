@@ -23,5 +23,6 @@
   { "name": "PO Inequality", "url": "https://raw.githubusercontent.com/swipeupandlearn/BankPO/refs/heads/main/Inequality" },
   { "name": "PO Surds and Indices", "url": "https://raw.githubusercontent.com/swipeupandlearn/BankPO/refs/heads/main/SurdsAndIndices" },
   { "name": "PO Algebra", "url": "https://raw.githubusercontent.com/swipeupandlearn/BankPO/refs/heads/main/Algebra" },
-  { "name": "PO Geometry and Mensuration", "url": "https://raw.githubusercontent.com/swipeupandlearn/BankPO/refs/heads/main/GeometryAndMensuration" }
+  { "name": "PO Geometry and Mensuration", "url": "https://raw.githubusercontent.com/swipeupandlearn/BankPO/refs/heads/main/GeometryAndMensuration" },
+ { "name": "PO Algebra", "url": "" }
 ]

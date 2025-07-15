@@ -20,8 +20,8 @@
   { "name": "PO Data Interpretation (DI)", "url": "https://raw.githubusercontent.com/swipeupandlearn/BankPO/refs/heads/main/DataInterpretation" },
   { "name": "PO Quadratic Equations", "url": "https://raw.githubusercontent.com/swipeupandlearn/BankPO/refs/heads/main/QuadraticEquations" },
   { "name": "PO Number Series", "url": "https://raw.githubusercontent.com/swipeupandlearn/BankPO/refs/heads/main/NumberSeries" },
-  { "name": "PO Inequality", "url": "" },
-  { "name": "PO Surds and Indices", "url": "" },
+  { "name": "PO Inequality", "url": "https://raw.githubusercontent.com/swipeupandlearn/BankPO/refs/heads/main/Inequality" },
+  { "name": "PO Surds and Indices", "url": "https://raw.githubusercontent.com/swipeupandlearn/BankPO/refs/heads/main/SurdsAndIndices" },
   { "name": "PO Algebra", "url": "" },
   { "name": "PO Geometry and Mensuration", "url": "" }
 ]

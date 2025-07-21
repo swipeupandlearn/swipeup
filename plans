@@ -1,4 +1,6 @@
 [
-  { "period": "3 Months", "price": 1 }
+  { "period": "3 Months", "price": 1 },
+ { "period": "6 Months", "price": 2 },
+ { "period": "12 Months", "price": 3 }
   
 ]

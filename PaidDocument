@@ -32,6 +32,17 @@
     {
       "name": "BPSC TRE",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/Hindi"
+    }, {
+      "name": "Bank",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/Bank"
+    },
+    {
+      "name": "SSC",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CSChapter.json"
+    },
+    {
+      "name": "BPSC TRE",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/Hindi"
     }
   ]
 

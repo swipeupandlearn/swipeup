@@ -10,7 +10,12 @@
     {
       "name": "BPSC TRE Free",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/Hindi"
-    }, {
+    },
+{
+      "name": "Bank Monthly Current Affair",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/BankMonthlyCurrentAffair"
+    },
+{
       "name": "Bank Free",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/Bank"
     },

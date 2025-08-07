@@ -1,5 +1,5 @@
 {
-  "alertAppVersion": "1.0.0",
+  "alertAppVersion": "2.33.21",
   "showOnlyAlert": true,
    "navigates": true,
    "alertMessage": "Important update available! Click on link to download new app verersion",

@@ -1,44 +1,16 @@
- [
+[
   {
-    title: "Marketing Intern - PrepZy",
-    category: "IT",
-    url: "https://example.com/apply-marketing",
-    publishedDate: "2025-08-03",
-    lastDate: "2025-08-20",
+    "title": "Marketing Intern - PrepZy",
+    "category": "IT",
+    "url": "https://example.com/apply-marketing",
+    "publishedDate": "2025-08-03",
+    "lastDate": "2025-08-20"
   },
   {
-    title: "Clerk Post - Bank ABC",
-    category: "BANK",
-    url: "https://example.com/apply-bank",
-    publishedDate: "2025-07-15",
-    lastDate: "2025-08-01",
-  },
-  {
-    title: "SSC GD Constable",
-    category: "SSC",
-    url: "https://example.com/apply-ssc",
-    publishedDate: "2025-06-10",
-    lastDate: "2025-07-01",
-  },
- {
-    title: "Clerk Post - Bank ABC",
-    category: "BANK2",
-    url: "https://example.com/apply-bank",
-    publishedDate: "2025-01-15",
-    lastDate: "2025-08-01",
-  },
-  {
-    title: "SSC GD Constable",
-    category: "SSC1",
-    url: "https://example.com/apply-ssc",
-    publishedDate: "2025-06-10",
-    lastDate: "2025-02-01",
-  },
-  {
-    title: "SSC GD Constable",
-    category: "SSC2",
-    url: "https://example.com/apply-ssc",
-    publishedDate: "2025-06-10",
-    lastDate: "2025-02-01",
+    "title": "Marketing Intern",
+    "category": "BANK",
+    "url": "https://example.com/apply",
+    "publishedDate": "2025-07-03",
+    "lastDate": "2025-08-05"
   }
 ]

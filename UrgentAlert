@@ -3,5 +3,5 @@
   "showOnlyAlert": true,
    "navigates": true,
    "alertMessage": "Important update available! Click on link to download new app verersion",
-   "newAppLink":""
+   "newAppLink":"https://github.com/swipeupandlearn/swipeup/blob/main/UrgentAlert"
 }

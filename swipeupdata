@@ -4,7 +4,10 @@
       "name": "plans",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/plans"
     },
-    
+    {
+      "name": "UrgentAlert",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/PaidDocument"
+    },
     {
       "name": "FreeDocument",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/FreeDocument"

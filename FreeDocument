@@ -1,41 +1,14 @@
 [
     {
-      "name": "Bank Free",
+      "name": "Bank- Free",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/Bank"
     },
     {
-      "name": "SSC Free",
+      "name": "SSC- Free",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CSChapter.json"
     },
     {
-      "name": "BPSC TRE Free",
-      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/Hindi"
-    },
-{
-      "name": "Bank Monthly Current Affair",
-      "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/BankMonthlyCurrentAffair"
-    },
-{
-      "name": "Bank Free",
-      "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/Bank"
-    },
-    {
-      "name": "SSC Free",
-      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CSChapter.json"
-    },
-    {
-      "name": "BPSC TRE Free",
-      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/Hindi"
-    }, {
-      "name": "Bank Free",
-      "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/Bank"
-    },
-    {
-      "name": "SSC Free",
-      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CSChapter.json"
-    },
-    {
-      "name": "BPSC TRE Free",
+      "name": "BPSC TRE- Free",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/Hindi"
     }
   ]

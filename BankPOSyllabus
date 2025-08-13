@@ -1,0 +1,275 @@
+[
+  {
+    "topic": "IBPS PO Exam Structure",
+    "subtopics": [
+      {
+        "subtopic": "Overview",
+        "content": "The IBPS Probationary Officer (PO) exam consists of two main stages: the Preliminary Exam and the Mains Exam. The Preliminary Exam is qualifying in nature, while the Mains Exam determines the final selection along with the interview process."
+      },
+      {
+        "subtopic": "Preliminary Exam - English Language",
+        "content": "weightage-30 Marks, questions-30, timeLimit-20 minutes"
+      },
+      {
+        "subtopic": "Preliminary Exam - Quantitative Aptitude",
+        "content": "weightage-35 Marks, questions-35, timeLimit-20 minutes"
+      },
+      {
+        "subtopic": "Preliminary Exam - Reasoning Ability",
+        "content": "weightage-35 Marks, questions-35, timeLimit-20 minutes"
+      },
+      {
+        "subtopic": "Mains Exam - Reasoning & Computer Aptitude",
+        "content": "weightage-60 Marks, questions-45, timeLimit-60 minutes"
+      },
+      {
+        "subtopic": "Mains Exam - General/Economy/Banking Awareness",
+        "content": "weightage-40 Marks, questions-40, timeLimit-35 minutes"
+      },
+      {
+        "subtopic": "Mains Exam - English Language",
+        "content": "weightage-40 Marks, questions-35, timeLimit-40 minutes"
+      },
+      {
+        "subtopic": "Mains Exam - Data Analysis & Interpretation",
+        "content": "weightage-60 Marks, questions-35, timeLimit-45 minutes"
+      },
+      {
+        "subtopic": "Mains Exam - Descriptive Paper (English)",
+        "content": "weightage-25 Marks, questions-2, timeLimit-30 minutes"
+      }
+    ]
+  },
+  {
+    "topic": "Preliminary Exam - English Language",
+    "subtopics": [
+      {
+        "subtopic": "English Language",
+        "content": "weightage-30 Marks, questions-30, timeLimit-20 minutes sectional"
+      },
+      {
+        "subtopic": "Reading Comprehension",
+        "content": "Approx. 7-10 questions, ~7-10 marks. Passages based on banking, economy, current affairs, or general topics; questions on inference, main idea, tone, vocabulary, and facts."
+      },
+      {
+        "subtopic": "Cloze Test",
+        "content": "Approx. 5-7 questions, ~5-7 marks. Fill-in-the-blanks with appropriate words based on context."
+      },
+      {
+        "subtopic": "Para Jumbles",
+        "content": "Approx. 3-5 questions, ~3-5 marks. Rearranging sentences in logical order."
+      },
+      {
+        "subtopic": "Error Spotting",
+        "content": "Approx. 3-5 questions, ~3-5 marks. Identifying grammatical and usage errors in sentences."
+      },
+      {
+        "subtopic": "Sentence Improvement",
+        "content": "Approx. 3-5 questions, ~3-5 marks. Replacing a part or whole sentence with a better version."
+      },
+      {
+        "subtopic": "Fill in the Blanks",
+        "content": "Approx. 2-3 questions, ~2-3 marks. Single or double blanks testing vocabulary and grammar."
+      }
+    ]
+  },
+  {
+    "topic": "Preliminary Exam - Quantitative Aptitude",
+    "subtopics": [
+      {
+        "subtopic": "Quantitative Aptitude",
+        "content": "weightage-35 Marks, questions-35, timeLimit-20 minutes sectional"
+      },
+      {
+        "subtopic": "Number Series",
+        "content": "Approx. 4-5 questions, ~4-5 marks. Finding the missing number or wrong number in a sequence."
+      },
+      {
+        "subtopic": "Simplification/Approximation",
+        "content": "Approx. 5-6 questions, ~5-6 marks. Basic arithmetic simplification and approximation."
+      },
+      {
+        "subtopic": "Data Interpretation",
+        "content": "Approx. 10-12 questions, ~10-12 marks. Bar graphs, line charts, pie charts, tabular data, and mixed charts."
+      },
+      {
+        "subtopic": "Quadratic Equations",
+        "content": "Approx. 3-5 questions, ~3-5 marks. Finding roots and comparing values."
+      },
+      {
+        "subtopic": "Arithmetic Word Problems",
+        "content": "Approx. 8-10 questions, ~8-10 marks. Percentage, ratio & proportion, profit & loss, simple & compound interest, time & work, time-speed-distance, mixtures, and partnership."
+      },
+      {
+        "subtopic": "Mensuration & Geometry",
+        "content": "Approx. 2-3 questions, ~2-3 marks. Area, perimeter, volume, and surface area problems."
+      }
+    ]
+  },
+  {
+    "topic": "Preliminary Exam - Reasoning Ability",
+    "subtopics": [
+      {
+        "subtopic": "Reasoning Ability",
+        "content": "weightage-35 Marks, questions-35, timeLimit-20 minutes sectional"
+      },
+      {
+        "subtopic": "Puzzles",
+        "content": "Approx. 15-20 questions, ~15-20 marks. Seating arrangement (linear, circular), floor puzzles, scheduling."
+      },
+      {
+        "subtopic": "Syllogism",
+        "content": "Approx. 4-5 questions, ~4-5 marks. Logical reasoning problems based on statements and conclusions."
+      },
+      {
+        "subtopic": "Inequalities",
+        "content": "Approx. 3-5 questions, ~3-5 marks. Direct and coded inequalities."
+      },
+      {
+        "subtopic": "Coding-Decoding",
+        "content": "Approx. 3-4 questions, ~3-4 marks. Conventional and new pattern coding problems."
+      },
+      {
+        "subtopic": "Blood Relations",
+        "content": "Approx. 2-3 questions, ~2-3 marks. Family relationship based problems."
+      },
+      {
+        "subtopic": "Direction Sense",
+        "content": "Approx. 2-3 questions, ~2-3 marks. Problems involving directions, distances, and relative positions."
+      },
+      {
+        "subtopic": "Miscellaneous",
+        "content": "Approx. 3-4 questions, ~3-4 marks. Order & ranking, alphanumeric series, input-output."
+      }
+    ]
+  },
+  {
+    "topic": "Mains Exam - Reasoning & Computer Aptitude",
+    "subtopics": [
+      {
+        "subtopic": "Reasoning & Computer Aptitude",
+        "content": "Weightage-60 Marks, questions-45, timeLimit-60 minutes sectional"
+      },
+      {
+        "subtopic": "Puzzles & Seating Arrangement",
+        "content": "Approx. 20-25 questions, ~25-30 marks. Includes linear/circular seating, floor puzzles, scheduling."
+      },
+      {
+        "subtopic": "Logical Reasoning",
+        "content": "Approx. 4-5 questions, ~4-5 marks. Statement-conclusion, cause-effect, statement-assumption."
+      },
+      {
+        "subtopic": "Data Sufficiency",
+        "content": "Approx. 3-4 questions, ~3-4 marks. Determine sufficiency of given statements to answer a question."
+      },
+      {
+        "subtopic": "Input-Output",
+        "content": "Approx. 4-5 questions, ~4-5 marks. Machine-based arrangement problems."
+      },
+      {
+        "subtopic": "Coding-Decoding",
+        "content": "Approx. 2-3 questions, ~2-3 marks. Advanced and pattern-based coding."
+      },
+      {
+        "subtopic": "Syllogism & Inequalities",
+        "content": "Approx. 3-4 questions, ~3-4 marks. Covers direct, coded, and reverse syllogisms."
+      },
+      {
+        "subtopic": "Computer Aptitude",
+        "content": "Approx. 4-5 questions, ~4-5 marks. Flowcharts, logic gates, basic computer knowledge."
+      }
+    ]
+  },
+  {
+    "topic": "Mains Exam - Data Analysis & Interpretation",
+    "subtopics": [
+      {
+        "subtopic": "Data Analysis & Interpretation",
+        "content": "Weightage-60 Marks, questions-35, timeLimit-45 minutes sectional"
+      },
+      {
+        "subtopic": "Data Interpretation (DI)",
+        "content": "Approx. 20-25 questions, ~35-40 marks. Tables, bar graphs, line charts, pie charts, caselets."
+      },
+      {
+        "subtopic": "Data Sufficiency",
+        "content": "Approx. 3-5 questions, ~5 marks. Determine if given data is adequate to solve the problem."
+      },
+      {
+        "subtopic": "Quadratic Equations",
+        "content": "Approx. 2-3 questions, ~2-3 marks. Compare roots and solve equations."
+      },
+      {
+        "subtopic": "Arithmetic Word Problems",
+        "content": "Approx. 5-7 questions, ~7-10 marks. Covers percentages, ratios, profit-loss, time-work, mixtures."
+      }
+    ]
+  },
+  {
+    "topic": "Mains Exam - English Language",
+    "subtopics": [
+      {
+        "subtopic": "English Language",
+        "content": "Weightage-40 Marks, questions-35, timeLimit-40 minutes sectional"
+      },
+      {
+        "subtopic": "Reading Comprehension",
+        "content": "Approx. 10-15 questions, ~12-15 marks. Passages on economy, banking, social issues."
+      },
+      {
+        "subtopic": "Cloze Test",
+        "content": "Approx. 5 questions, ~5 marks. Fill-in-the-blank passage based on context."
+      },
+      {
+        "subtopic": "Para Jumbles",
+        "content": "Approx. 5 questions, ~5 marks. Arrange sentences in logical order."
+      },
+      {
+        "subtopic": "Error Spotting",
+        "content": "Approx. 4-5 questions, ~4-5 marks. Grammar and syntax errors."
+      },
+      {
+        "subtopic": "Sentence Improvement",
+        "content": "Approx. 3-5 questions, ~3-5 marks. Better phrasing of given sentences."
+      }
+    ]
+  },
+  {
+    "topic": "Mains Exam - General/Economy/Banking Awareness",
+    "subtopics": [
+      {
+        "subtopic": "General/Economy/Banking Awareness",
+        "content": "Weightage-40 Marks, questions-40, timeLimit-35 minutes Sectional"
+      },
+      {
+        "subtopic": "Current Affairs",
+        "content": "Approx. 15-20 questions, ~15-20 marks. National, international, sports, awards."
+      },
+      {
+        "subtopic": "Banking Awareness",
+        "content": "Approx. 10-15 questions, ~10-15 marks. RBI policies, banking terms, financial institutions."
+      },
+      {
+        "subtopic": "Economic Awareness",
+        "content": "Approx. 5-10 questions, ~5-10 marks. GDP, inflation, fiscal policy."
+      }
+    ]
+  },
+  {
+    "topic": "Mains Exam - Descriptive Paper (English)",
+    "subtopics": [
+      {
+        "subtopic": " Descriptive Paper (English)",
+        "content": "Weightage-25 Marks, questions-2, timeLimit-30 minutes"
+      },
+      {
+        "subtopic": "Essay Writing",
+        "content": "One essay on banking, economy, or current affairs (~150-200 words)."
+      },
+      {
+        "subtopic": "Letter Writing",
+        "content": "One formal/informal letter (~150-200 words)."
+      }
+    ]
+  }
+]

@@ -1,4 +1,7 @@
-[
+[ {
+      "name": "Bank PO Structure & Syllabus",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/BankPOSyllabus"
+    },
     {
       "name": "Bank PO Math",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/BankPOMath"

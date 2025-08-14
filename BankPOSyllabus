@@ -70,6 +70,18 @@
       {
         "subtopic": "Fill in the Blanks",
         "content": "Approx. 2-3 questions, ~2-3 marks. Single or double blanks testing vocabulary and grammar."
+      },
+      {
+        "subtopic": "Word Swap/Word Replacement",
+        "content": "Approx. 3-4 questions, ~3-4 marks. Swapping misplaced words in sentences to make them contextually and grammatically correct."
+      },
+      {
+        "subtopic": "Sentence Rearrangement (Short Paragraphs)",
+        "content": "Approx. 3-4 questions, ~3-4 marks. Rearranging 4-5 sentences to form a meaningful paragraph."
+      },
+      {
+        "subtopic": "Phrase Replacement",
+        "content": "Approx. 2-3 questions, ~2-3 marks. Replacing underlined phrases with the correct alternative."
       }
     ]
   },
@@ -78,31 +90,35 @@
     "subtopics": [
       {
         "subtopic": "Quantitative Aptitude",
-        "content": "weightage-35 Marks, questions-35, timeLimit-20 minutes sectional"
+        "content": "Weightage - 35 Marks, Questions - 35, Time Limit - 20 minutes (Sectional)."
       },
       {
         "subtopic": "Number Series",
-        "content": "Approx. 4-5 questions, ~4-5 marks. Finding the missing number or wrong number in a sequence."
+        "content": "Approx. 4-5 questions (~4-5 marks). Types: Missing number series, Wrong number series, Double pattern series, Mixed pattern series."
       },
       {
-        "subtopic": "Simplification/Approximation",
-        "content": "Approx. 5-6 questions, ~5-6 marks. Basic arithmetic simplification and approximation."
+        "subtopic": "Simplification / Approximation",
+        "content": "Approx. 5-6 questions (~5-6 marks). Includes: BODMAS rule, Square & cube roots, Percentages, Fractions & decimals, Approximations."
       },
       {
-        "subtopic": "Data Interpretation",
-        "content": "Approx. 10-12 questions, ~10-12 marks. Bar graphs, line charts, pie charts, tabular data, and mixed charts."
+        "subtopic": "Data Interpretation (DI)",
+        "content": "Approx. 10-12 questions (~10-12 marks). Types: Tabular DI, Bar graph, Line graph, Pie chart, Caselet DI, Missing DI, Mixed DI."
       },
       {
         "subtopic": "Quadratic Equations",
-        "content": "Approx. 3-5 questions, ~3-5 marks. Finding roots and comparing values."
+        "content": "Approx. 3-5 questions (~3-5 marks). Includes: Finding roots, Comparing values, Application in inequalities."
       },
       {
         "subtopic": "Arithmetic Word Problems",
-        "content": "Approx. 8-10 questions, ~8-10 marks. Percentage, ratio & proportion, profit & loss, simple & compound interest, time & work, time-speed-distance, mixtures, and partnership."
+        "content": "Approx. 8-10 questions (~8-10 marks). Topics: Percentage, Profit & Loss, Discount, Simple Interest (SI), Compound Interest (CI), Ratio & Proportion, Partnership, Mixtures & Alligation, Average, Time & Work, Pipes & Cisterns, Time-Speed-Distance, Boats & Streams, Problems on Trains, Age problems."
       },
       {
         "subtopic": "Mensuration & Geometry",
-        "content": "Approx. 2-3 questions, ~2-3 marks. Area, perimeter, volume, and surface area problems."
+        "content": "Approx. 2-3 questions (~2-3 marks). Topics: Area & perimeter of 2D shapes, Surface area & volume of 3D solids, Geometry basics (angles, triangles, circles)."
+      },
+      {
+        "subtopic": "Miscellaneous",
+        "content": "Other possible questions from topics like Permutation & Combination, Probability, Algebra (linear & quadratic equations), Surds & Indices, HCF & LCM."
       }
     ]
   },
@@ -114,69 +130,94 @@
         "content": "weightage-35 Marks, questions-35, timeLimit-20 minutes sectional"
       },
       {
-        "subtopic": "Puzzles",
-        "content": "Approx. 15-20 questions, ~15-20 marks. Seating arrangement (linear, circular), floor puzzles, scheduling."
+        "subtopic": "Puzzles & Seating Arrangement",
+        "content": "Approx. 15-20 questions, ~15-20 marks. Includes linear, circular, square/rectangular seating, floor puzzles, scheduling puzzles, box/stack puzzles, and mixed puzzles."
       },
       {
         "subtopic": "Syllogism",
-        "content": "Approx. 4-5 questions, ~4-5 marks. Logical reasoning problems based on statements and conclusions."
+        "content": "Approx. 4-5 questions, ~4-5 marks. Covers statement-conclusion, possibility cases, negative cases."
       },
       {
         "subtopic": "Inequalities",
-        "content": "Approx. 3-5 questions, ~3-5 marks. Direct and coded inequalities."
+        "content": "Approx. 3-5 questions, ~3-5 marks. Includes direct and coded inequalities."
       },
       {
         "subtopic": "Coding-Decoding",
-        "content": "Approx. 3-4 questions, ~3-4 marks. Conventional and new pattern coding problems."
+        "content": "Approx. 3-4 questions, ~3-4 marks. Letter, number, symbol, and conditional coding, coded equations."
       },
       {
         "subtopic": "Blood Relations",
-        "content": "Approx. 2-3 questions, ~2-3 marks. Family relationship based problems."
+        "content": "Approx. 2-3 questions, ~2-3 marks. Covers direct, coded, and puzzle-based relations."
       },
       {
         "subtopic": "Direction Sense",
-        "content": "Approx. 2-3 questions, ~2-3 marks. Problems involving directions, distances, and relative positions."
+        "content": "Approx. 2-3 questions, ~2-3 marks. Distance, direction, and coded direction problems."
+      },
+      {
+        "subtopic": "Order & Ranking",
+        "content": "Ranking in a row/column, age-based ranking."
+      },
+      {
+        "subtopic": "Data Sufficiency (Reasoning-based)",
+        "content": "Problems requiring determination of sufficiency of statements for reasoning-based solutions."
+      },
+      {
+        "subtopic": "Input-Output",
+        "content": "Machine-based number/word arrangement problems, including coded machine input-output."
+      },
+      {
+        "subtopic": "Logical Reasoning",
+        "content": "Statement–Assumption, Statement–Conclusion, Statement–Course of Action, Statement–Argument, Cause & Effect."
       },
       {
         "subtopic": "Miscellaneous",
-        "content": "Approx. 3-4 questions, ~3-4 marks. Order & ranking, alphanumeric series, input-output."
+        "content": "Alphabet test, number series (reasoning-based), word formation, odd one out."
+      },
+      {
+        "subtopic": "Non-Verbal Reasoning",
+        "content": "Mirror image, water image, paper folding & cutting, figure completion, embedded figures, pattern completion, cube & dice, image analysis."
       }
     ]
   },
+
   {
     "topic": "Mains Exam - Reasoning & Computer Aptitude",
     "subtopics": [
       {
         "subtopic": "Reasoning & Computer Aptitude",
-        "content": "Weightage-60 Marks, questions-45, timeLimit-60 minutes sectional"
+        "content": "Weightage - 60 Marks, Questions - 45, Time Limit - 60 minutes (Sectional)."
       },
       {
         "subtopic": "Puzzles & Seating Arrangement",
-        "content": "Approx. 20-25 questions, ~25-30 marks. Includes linear/circular seating, floor puzzles, scheduling."
+        "content": "Approx. 20-25 questions (~25-30 marks). Includes: Linear arrangement, Circular arrangement, Square/Rectangular arrangement, Double row seating, Floor puzzles, Scheduling, Box-based puzzles, Month & Date puzzles, Mixed puzzles."
       },
       {
         "subtopic": "Logical Reasoning",
-        "content": "Approx. 4-5 questions, ~4-5 marks. Statement-conclusion, cause-effect, statement-assumption."
+        "content": "Approx. 4-5 questions (~4-5 marks). Topics: Statement-Conclusions, Statement-Assumptions, Statement-Arguments, Cause & Effect, Course of Action, Inference-based reasoning."
       },
       {
         "subtopic": "Data Sufficiency",
-        "content": "Approx. 3-4 questions, ~3-4 marks. Determine sufficiency of given statements to answer a question."
+        "content": "Approx. 3-4 questions (~3-4 marks). Single-statement & two-statement sufficiency problems covering reasoning and arithmetic."
       },
       {
         "subtopic": "Input-Output",
-        "content": "Approx. 4-5 questions, ~4-5 marks. Machine-based arrangement problems."
+        "content": "Approx. 4-5 questions (~4-5 marks). Includes word-based and number-based machine input-output patterns."
       },
       {
         "subtopic": "Coding-Decoding",
-        "content": "Approx. 2-3 questions, ~2-3 marks. Advanced and pattern-based coding."
+        "content": "Approx. 2-3 questions (~2-3 marks). Advanced pattern coding, mathematical coding, symbol coding, matrix coding."
       },
       {
         "subtopic": "Syllogism & Inequalities",
-        "content": "Approx. 3-4 questions, ~3-4 marks. Covers direct, coded, and reverse syllogisms."
+        "content": "Approx. 3-4 questions (~3-4 marks). Covers direct, coded, reverse syllogism, and mathematical inequalities."
+      },
+      {
+        "subtopic": "Miscellaneous Reasoning",
+        "content": "Possible topics: Blood Relations, Direction Sense, Order & Ranking, Alphabet/Number-based series."
       },
       {
         "subtopic": "Computer Aptitude",
-        "content": "Approx. 4-5 questions, ~4-5 marks. Flowcharts, logic gates, basic computer knowledge."
+        "content": "Approx. 4-5 questions (~4-5 marks). Flowcharts, Logic gates, Binary numbers, Input-output mapping, Basic computer terminology, Networking basics."
       }
     ]
   },
@@ -185,23 +226,23 @@
     "subtopics": [
       {
         "subtopic": "Data Analysis & Interpretation",
-        "content": "Weightage-60 Marks, questions-35, timeLimit-45 minutes sectional"
+        "content": "Weightage - 60 Marks, Questions - 35, Time Limit - 45 minutes (Sectional)."
       },
       {
         "subtopic": "Data Interpretation (DI)",
-        "content": "Approx. 20-25 questions, ~35-40 marks. Tables, bar graphs, line charts, pie charts, caselets."
+        "content": "Approx. 20-25 questions (~35-40 marks). Includes: Tabular DI, Bar graph, Line chart, Pie chart, Caselet DI, Missing DI, Mixed graph DI, Data comparison."
       },
       {
         "subtopic": "Data Sufficiency",
-        "content": "Approx. 3-5 questions, ~5 marks. Determine if given data is adequate to solve the problem."
+        "content": "Approx. 3-5 questions (~5 marks). Based on arithmetic, algebra, or reasoning scenarios."
       },
       {
         "subtopic": "Quadratic Equations",
-        "content": "Approx. 2-3 questions, ~2-3 marks. Compare roots and solve equations."
+        "content": "Approx. 2-3 questions (~2-3 marks). Finding roots, comparing values."
       },
       {
         "subtopic": "Arithmetic Word Problems",
-        "content": "Approx. 5-7 questions, ~7-10 marks. Covers percentages, ratios, profit-loss, time-work, mixtures."
+        "content": "Approx. 5-7 questions (~7-10 marks). Topics: Percentage, Profit & Loss, Simple & Compound Interest, Time & Work, Time-Speed-Distance, Mixtures & Alligation, Partnership, Ratio & Proportion, Average."
       }
     ]
   },
@@ -210,27 +251,31 @@
     "subtopics": [
       {
         "subtopic": "English Language",
-        "content": "Weightage-40 Marks, questions-35, timeLimit-40 minutes sectional"
+        "content": "Weightage - 40 Marks, Questions - 35, Time Limit - 40 minutes (Sectional)."
       },
       {
         "subtopic": "Reading Comprehension",
-        "content": "Approx. 10-15 questions, ~12-15 marks. Passages on economy, banking, social issues."
+        "content": "Approx. 10-15 questions (~12-15 marks). Passages on banking, economy, social issues, abstract topics; includes inference, tone, vocabulary, fact-based & application-based questions."
       },
       {
         "subtopic": "Cloze Test",
-        "content": "Approx. 5 questions, ~5 marks. Fill-in-the-blank passage based on context."
+        "content": "Approx. 5 questions (~5 marks). Context-based fill-in-the-blanks."
       },
       {
         "subtopic": "Para Jumbles",
-        "content": "Approx. 5 questions, ~5 marks. Arrange sentences in logical order."
+        "content": "Approx. 5 questions (~5 marks). Rearranging sentences to form coherent paragraphs."
       },
       {
         "subtopic": "Error Spotting",
-        "content": "Approx. 4-5 questions, ~4-5 marks. Grammar and syntax errors."
+        "content": "Approx. 4-5 questions (~4-5 marks). Grammar, subject-verb agreement, tense, and usage errors."
       },
       {
         "subtopic": "Sentence Improvement",
-        "content": "Approx. 3-5 questions, ~3-5 marks. Better phrasing of given sentences."
+        "content": "Approx. 3-5 questions (~3-5 marks). Enhancing grammatical correctness & contextual clarity."
+      },
+      {
+        "subtopic": "Word Swap / Phrase Replacement",
+        "content": "Approx. 3-4 questions (~3-4 marks). Correcting misplaced or incorrect words/phrases."
       }
     ]
   },
@@ -239,19 +284,23 @@
     "subtopics": [
       {
         "subtopic": "General/Economy/Banking Awareness",
-        "content": "Weightage-40 Marks, questions-40, timeLimit-35 minutes Sectional"
+        "content": "Weightage - 40 Marks, Questions - 40, Time Limit - 35 minutes (Sectional)."
       },
       {
         "subtopic": "Current Affairs",
-        "content": "Approx. 15-20 questions, ~15-20 marks. National, international, sports, awards."
+        "content": "Approx. 15-20 questions (~15-20 marks). Topics: National, International, Sports, Awards, Summits, Appointments."
       },
       {
         "subtopic": "Banking Awareness",
-        "content": "Approx. 10-15 questions, ~10-15 marks. RBI policies, banking terms, financial institutions."
+        "content": "Approx. 10-15 questions (~10-15 marks). RBI functions, Monetary policy, Banking terms, Financial institutions, Basel norms."
       },
       {
         "subtopic": "Economic Awareness",
-        "content": "Approx. 5-10 questions, ~5-10 marks. GDP, inflation, fiscal policy."
+        "content": "Approx. 5-10 questions (~5-10 marks). GDP, Inflation, Budget, Fiscal policy, Economic surveys."
+      },
+      {
+        "subtopic": "Static Awareness",
+        "content": "Possible questions from geography, important national parks, currencies & capitals, important days."
       }
     ]
   },
@@ -259,16 +308,16 @@
     "topic": "Mains Exam - Descriptive Paper (English)",
     "subtopics": [
       {
-        "subtopic": " Descriptive Paper (English)",
-        "content": "Weightage-25 Marks, questions-2, timeLimit-30 minutes"
+        "subtopic": "Descriptive Paper (English)",
+        "content": "Weightage - 25 Marks, Questions - 2, Time Limit - 30 minutes."
       },
       {
         "subtopic": "Essay Writing",
-        "content": "One essay on banking, economy, or current affairs (~150-200 words)."
+        "content": "One essay (~150-200 words) on banking, economy, finance, social issues, or current affairs."
       },
       {
         "subtopic": "Letter Writing",
-        "content": "One formal/informal letter (~150-200 words)."
+        "content": "One formal or informal letter (~150-200 words) on official, complaint, request, or informative topics."
       }
     ]
   }

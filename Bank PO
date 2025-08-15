@@ -5,6 +5,11 @@
     {
       "name": "Bank PO Math",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/BankPOMath"
+    },
+    {
+      "name": "Bank PO English",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/BankPOEnglish"
     }
+
   ]
 

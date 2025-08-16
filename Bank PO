@@ -1,4 +1,5 @@
-[ {
+[ 
+    {
       "name": "Bank PO Syllabus",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/BankPOStructureAndSyllabus"
     },
@@ -10,6 +11,5 @@
       "name": "Bank PO English",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/BankPOEnglish"
     }
-
   ]
 

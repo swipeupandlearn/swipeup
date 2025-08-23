@@ -1,4 +1,8 @@
 [{
  "name":"English All Topics", "url":"https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/BankPOEnglishAllTopic"
+},
+{
+ "name":"Imp Vocab (100+)", "url":"https://raw.githubusercontent.com/swipeupandlearn/BankPoEnglish/refs/heads/main/vocab"
 }
+
 ]

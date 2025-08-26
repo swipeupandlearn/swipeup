@@ -6,6 +6,9 @@
 },
 {
  "name":"Imp Vocab (100+)", "url":"https://raw.githubusercontent.com/swipeupandlearn/BankPoEnglish/refs/heads/main/vocab"
+},
+{
+ "name":"Idioms & Phrase", "url":"https://raw.githubusercontent.com/swipeupandlearn/BankPoEnglish/refs/heads/main/IdiomsAndPhrase"
 }
 
 ]

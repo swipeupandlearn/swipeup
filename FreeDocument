@@ -6,5 +6,10 @@
     {
       "name": "Bank Exams- Free",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/swipeup/refs/heads/main/Bank"
+    },
+ {
+      "name": "Static GK",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/StaticGKBank/refs/heads/main/StaticGKFront"
     }
+
   ]
